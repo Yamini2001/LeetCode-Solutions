@@ -5,6 +5,7 @@ This repository contains Java implementations of three classic algorithms:
 - Maximum Subarray
 - Merge Intervals
 - Regular Expression Matching
+  
 
 ## Maximum Subarray
 
@@ -27,6 +28,10 @@ The Merge Intervals problem involves merging overlapping intervals or ranges.
 ## Regular Expression Matching
 
 Regular Expression Matching involves determining whether a given string matches a given pattern.
+
+## Adjacent Increasing SubArrays Detection
+
+ Two adjacent subarrays of length k such that both subarrays are strictly increasing. 
 
 ### Implementation
 
