@@ -33,6 +33,10 @@ Regular Expression Matching involves determining whether a given string matches 
 
  Two adjacent subarrays of length k such that both subarrays are strictly increasing. 
 
+ ## 3Sum Closest
+
+ Given an integer array nums of length n and an integer target, find three integers in nums such that the sum is closest to target.
+
 ### Implementation
 
 - **File:** `regular_expression_matching.java`
