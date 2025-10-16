@@ -5,6 +5,7 @@ This repository contains Java implementations of three classic algorithms:
 - Maximum Subarray
 - Merge Intervals
 - Regular Expression Matching
+- Smallest Missing Non-Negative Integer After Operations
   
 
 ## Maximum Subarray
@@ -36,6 +37,9 @@ Regular Expression Matching involves determining whether a given string matches 
  ## 3Sum Closest
 
  Given an integer array nums of length n and an integer target, find three integers in nums such that the sum is closest to target.
+
+ ## Smallest Missing Non-Negative Integer After Operations
+ The MEX (minimum excluded) of an array is the smallest missing non-negative integer in it.
 
 ### Implementation
 
