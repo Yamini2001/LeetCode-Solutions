@@ -6,6 +6,7 @@ This repository contains Java implementations of three classic algorithms:
 - Merge Intervals
 - Regular Expression Matching
 - Smallest Missing Non-Negative Integer After Operations
+- Maximise The Number of Partitions After Operations
   
 
 ## Maximum Subarray
@@ -40,6 +41,9 @@ Regular Expression Matching involves determining whether a given string matches 
 
  ## Smallest Missing Non-Negative Integer After Operations
  The MEX (minimum excluded) of an array is the smallest missing non-negative integer in it.
+
+ ## Maximise the number of partitions After Operations
+ Return an integer denoting the maximum number of resulting partitions after the operations by optimally choosing at most one index to change.
 
 ### Implementation
 
