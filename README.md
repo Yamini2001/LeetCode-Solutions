@@ -7,6 +7,8 @@ This repository contains Java implementations of three classic algorithms:
 - Regular Expression Matching
 - Smallest Missing Non-Negative Integer After Operations
 - Maximise The Number of Partitions After Operations
+- Maximum Number of Distinct Elements After Operations
+- Lexicographically Smallest String After Applying Operations
   
 
 ## Maximum Subarray
@@ -44,6 +46,12 @@ Regular Expression Matching involves determining whether a given string matches 
 
  ## Maximise the number of partitions After Operations
  Return an integer denoting the maximum number of resulting partitions after the operations by optimally choosing at most one index to change.
+
+ ## Maximum Number of Distinct Elements After Operations
+Return the maximum possible number of distinct elements in nums after performing the operations.
+
+## Lexicographically Smallest String After Applying Operations
+Return the lexicographically smallest string you can obtain by applying the above operations any number of times on s.
 
 ### Implementation
 
