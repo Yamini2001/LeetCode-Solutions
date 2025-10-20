@@ -53,6 +53,9 @@ Return the maximum possible number of distinct elements in nums after performing
 ## Lexicographically Smallest String After Applying Operations
 Return the lexicographically smallest string you can obtain by applying the above operations any number of times on s.
 
+## Value Of Variable After Operations
+Given an array of strings operations containing a list of operations, return the final value of X after performing all the operations.
+
 ### Implementation
 
 - **File:** `regular_expression_matching.java`
