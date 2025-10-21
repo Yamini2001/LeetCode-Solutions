@@ -56,6 +56,9 @@ Return the lexicographically smallest string you can obtain by applying the abov
 ## Value Of Variable After Operations
 Given an array of strings operations containing a list of operations, return the final value of X after performing all the operations.
 
+## Maximum Frequency of elements After Performing Operations
+Return the maximum possible frequency of any element in nums after performing the operations.
+
 ### Implementation
 
 - **File:** `regular_expression_matching.java`
