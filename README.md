@@ -59,6 +59,9 @@ Given an array of strings operations containing a list of operations, return the
 ## Maximum Frequency of elements After Performing Operations
 Return the maximum possible frequency of any element in nums after performing the operations.
 
+## Longest Common Prefix
+ A function to find the longest common prefix string amongst an array of strings.
+
 ### Implementation
 
 - **File:** `regular_expression_matching.java`
