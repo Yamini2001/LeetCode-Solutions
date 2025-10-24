@@ -9,6 +9,8 @@ This repository contains Java implementations of three classic algorithms:
 - Maximise The Number of Partitions After Operations
 - Maximum Number of Distinct Elements After Operations
 - Lexicographically Smallest String After Applying Operations
+- Check If Digits Are Equal in a String After Operations
+- Next Greater Numerically Balanced Number
   
 
 ## Maximum Subarray
@@ -61,6 +63,12 @@ Return the maximum possible frequency of any element in nums after performing th
 
 ## Longest Common Prefix
  A function to find the longest common prefix string amongst an array of strings.
+
+ ## Check If Digits Are Equal in a String After Operations
+ Perform the following operation repeatedly until the string has exactly two digits.
+
+ ## Next Greater Numerically Balanced Number
+ Given an integer n, return the smallest numerically balanced number strictly greater than n.
 
 ### Implementation
 
