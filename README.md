@@ -11,6 +11,7 @@ This repository contains Java implementations of three classic algorithms:
 - Lexicographically Smallest String After Applying Operations
 - Check If Digits Are Equal in a String After Operations
 - Next Greater Numerically Balanced Number
+- Calculate Money in LeetCode Bank
   
 
 ## Maximum Subarray
@@ -69,6 +70,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
  ## Next Greater Numerically Balanced Number
  Given an integer n, return the smallest numerically balanced number strictly greater than n.
+
+ ## Calculate Money in LeetCode Bank
+ Given n, return the total amount of money he will have in the Leetcode bank at the end of the nth day.
 
 ### Implementation
 
