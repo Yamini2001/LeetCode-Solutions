@@ -13,6 +13,7 @@ This repository contains Java implementations of three classic algorithms:
 - Next Greater Numerically Balanced Number
 - Calculate Money in LeetCode Bank
 - Simple Bank System
+- Number of Laser Beams in a Bank
   
 
 ## Maximum Subarray
@@ -77,6 +78,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
  ## Simple Bank System
  A program for a popular bank that will automate all its incoming transactions (transfer, deposit, and withdrawal). The bank has n accounts numbered from 1 to n. The initial balance of each account is stored in a 0-indexed integer array balance, with the (i + 1)th account having an initial balance of balance[i].
+
+ ## Number of Laser Beams in a Bank
+ Given a 0-indexed binary string array bank representing the floor plan of the bank, which is an m x n 2D matrix. bank[i] represents the ith row, consisting of '0's and '1's. '0' means the cell is empty, while'1' means the cell has a security device.
 
 ### Implementation
 
