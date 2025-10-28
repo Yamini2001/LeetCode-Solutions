@@ -14,6 +14,7 @@ This repository contains Java implementations of three classic algorithms:
 - Calculate Money in LeetCode Bank
 - Simple Bank System
 - Number of Laser Beams in a Bank
+- Make Element Array to Zero
   
 
 ## Maximum Subarray
@@ -81,6 +82,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
  ## Number of Laser Beams in a Bank
  Given a 0-indexed binary string array bank representing the floor plan of the bank, which is an m x n 2D matrix. bank[i] represents the ith row, consisting of '0's and '1's. '0' means the cell is empty, while'1' means the cell has a security device.
+
+ ## Make Element Array to Zero
+ Return the number of possible valid selections.
 
 ### Implementation
 
