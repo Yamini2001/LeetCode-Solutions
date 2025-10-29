@@ -15,6 +15,7 @@ This repository contains Java implementations of three classic algorithms:
 - Simple Bank System
 - Number of Laser Beams in a Bank
 - Make Element Array to Zero
+- Smallest Number With All Bits
   
 
 ## Maximum Subarray
@@ -85,6 +86,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
  ## Make Element Array to Zero
  Return the number of possible valid selections.
+
+ ## Smallest Number With All Bits
+ Return the smallest number x greater than or equal to n, such that the binary representation of x contains only set bits
 
 ### Implementation
 
