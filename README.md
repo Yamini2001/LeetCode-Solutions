@@ -16,6 +16,7 @@ This repository contains Java implementations of three classic algorithms:
 - Number of Laser Beams in a Bank
 - Make Element Array to Zero
 - Smallest Number With All Bits
+- Minimum number of Increments on Subarray to form a target Array
   
 
 ## Maximum Subarray
@@ -88,7 +89,10 @@ Return the maximum possible frequency of any element in nums after performing th
  Return the number of possible valid selections.
 
  ## Smallest Number With All Bits
- Return the smallest number x greater than or equal to n, such that the binary representation of x contains only set bits
+ Return the smallest number x greater than or equal to n, such that the binary representation of x contains only set bits.
+
+ ## Minimum number of Increments on Subarray to form a target Array
+ Return the minimum number of operations to form a target array from initial.
 
 ### Implementation
 
