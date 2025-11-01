@@ -18,6 +18,7 @@ This repository contains Java implementations of three classic algorithms:
 - Smallest Number With All Bits
 - Minimum number of Increments on Subarray to form a target Array
 - Two Sneaky Numbers of DigitVille
+- Delete Node From Linked List Present in Array
   
 
 ## Maximum Subarray
@@ -97,6 +98,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
  ## Two Sneaky Numbers of DigitVille
  Return an array of size two containing the two numbers (in any order), so peace can return to Digitville.
+
+ ## Delete Node From Linked List Present in Array
+ Return the head of the modified linked list after removing all nodes from the linked list that have a value that exists in nums.
 
 ### Implementation
 
