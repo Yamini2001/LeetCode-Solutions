@@ -19,6 +19,7 @@ This repository contains Java implementations of three classic algorithms:
 - Minimum number of Increments on Subarray to form a target Array
 - Two Sneaky Numbers of DigitVille
 - Delete Node From Linked List Present in Array
+- Count the Unguarded cells in the grid
   
 
 ## Maximum Subarray
@@ -101,6 +102,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
  ## Delete Node From Linked List Present in Array
  Return the head of the modified linked list after removing all nodes from the linked list that have a value that exists in nums.
+
+ ## Count Unguarded cell in the grid
+ Return the number of unoccupied cells that are not guarded.
 
 ### Implementation
 
