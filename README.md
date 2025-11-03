@@ -20,6 +20,7 @@ This repository contains Java implementations of three classic algorithms:
 - Two Sneaky Numbers of DigitVille
 - Delete Node From Linked List Present in Array
 - Count the Unguarded cells in the grid
+- Minimum Time to make a colourful rope
   
 
 ## Maximum Subarray
@@ -105,6 +106,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
  ## Count Unguarded cell in the grid
  Return the number of unoccupied cells that are not guarded.
+
+ ## Minimum Time to make a colourful rope
+ Return the minimum time Bob needs to make the rope colorful.
 
 ### Implementation
 
