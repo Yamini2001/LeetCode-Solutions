@@ -21,6 +21,7 @@ This repository contains Java implementations of three classic algorithms:
 - Delete Node From Linked List Present in Array
 - Count the Unguarded cells in the grid
 - Minimum Time to make a colourful rope
+- Find X-Sum for all K-Long subArrays
   
 
 ## Maximum Subarray
@@ -108,7 +109,12 @@ Return the maximum possible frequency of any element in nums after performing th
  Return the number of unoccupied cells that are not guarded.
 
  ## Minimum Time to make a colourful rope
- Return the minimum time Bob needs to make the rope colorful.
+ Return the minimum time Bob needs to make the rope colourful.
+
+ ## Find X-Sum for all K-Long subArrays
+ Return an integer array answer of length n - k + 1 where answer[i] is the x-sum of the subarray nums[i..i + k - 1].
+
+
 
 ### Implementation
 
