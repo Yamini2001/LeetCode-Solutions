@@ -22,6 +22,7 @@ This repository contains Java implementations of three classic algorithms:
 - Count the Unguarded cells in the grid
 - Minimum Time to make a colourful rope
 - Find X-Sum for all K-Long subArrays
+- 4Sum
   
 
 ## Maximum Subarray
@@ -113,6 +114,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
  ## Find X-Sum for all K-Long subArrays
  Return an integer array answer of length n - k + 1 where answer[i] is the x-sum of the subarray nums[i..i + k - 1].
+
+ ## 4Sum
+  return an array of all the unique quadruplets [nums[a], nums[b], nums[c], nums[d]]
 
 
 
