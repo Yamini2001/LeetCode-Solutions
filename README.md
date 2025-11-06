@@ -23,6 +23,7 @@ This repository contains Java implementations of three classic algorithms:
 - Minimum Time to make a colourful rope
 - Find X-Sum for all K-Long subArrays
 - 4Sum
+- Power Grid Maintenance
   
 
 ## Maximum Subarray
@@ -117,6 +118,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
  ## 4Sum
   return an array of all the unique quadruplets [nums[a], nums[b], nums[c], nums[d]]
+
+  ## Power Grid Maintenance
+  Return an array of integers representing the results of each query of type [1, x] in the order they appear.
 
 
 
