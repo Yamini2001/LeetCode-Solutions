@@ -24,6 +24,7 @@ This repository contains Java implementations of three classic algorithms:
 - Find X-Sum for all K-Long subArrays
 - 4Sum
 - Power Grid Maintenance
+- Maximise And Minimise Powered City
   
 
 ## Maximum Subarray
@@ -121,6 +122,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Power Grid Maintenance
   Return an array of integers representing the results of each query of type [1, x] in the order they appear.
+
+  ## Maximise And Minimise Powered City
+  Given the two integers r and k, return the maximum possible minimum power of a city, if the additional power stations are built optimally.
 
 
 
