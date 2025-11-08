@@ -25,6 +25,7 @@ This repository contains Java implementations of three classic algorithms:
 - 4Sum
 - Power Grid Maintenance
 - Maximise And Minimise Powered City
+- Minimum One Bit Operations to Make Integers Zero 
   
 
 ## Maximum Subarray
@@ -125,6 +126,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Maximise And Minimise Powered City
   Given the two integers r and k, return the maximum possible minimum power of a city, if the additional power stations are built optimally.
+
+  ## Minimum One Bit Operations to Make Integers Zero 
+  Return the minimum number of operations to transform n into 0.
 
 
 
