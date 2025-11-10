@@ -27,6 +27,7 @@ This repository contains Java implementations of three classic algorithms:
 - Maximise And Minimise Powered City
 - Minimum One Bit Operations to Make Integers Zero
 - Count Operations To Obtain Zero
+- Minimum Operations to Convert All Elements to Zero
   
 
 ## Maximum Subarray
@@ -133,6 +134,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Count Operations To Obtain Zero
   Return the number of operations required to make either num1 = 0 or num2 = 0.
+
+  ## Minimum Operations to Convert All Elements to Zero
+  Return the minimum number of operations required to make all elements in the array 0.
 
 
 
