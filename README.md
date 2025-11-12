@@ -29,6 +29,7 @@ This repository contains Java implementations of three classic algorithms:
 - Count Operations To Obtain Zero
 - Minimum Operations to Convert All Elements to Zero
 - Ones And Zeroes
+- Minimum Number of Operations to Make All Array Elements Equal to 1 
   
 
 ## Maximum Subarray
@@ -141,6 +142,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Ones And Zeroes
   Return the size of the largest subset of strs such that there are at most m 0's and n 1's in the subset.
+
+  ## Minimum Number of Operations to Make All Array Elements Equal to 1 
+  Return the minimum number of operations to make all elements of nums equal to 1. If it is impossible, return -1.
 
 
 
