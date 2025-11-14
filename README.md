@@ -29,7 +29,9 @@ This repository contains Java implementations of three classic algorithms:
 - Count Operations To Obtain Zero
 - Minimum Operations to Convert All Elements to Zero
 - Ones And Zeroes
-- Minimum Number of Operations to Make All Array Elements Equal to 1 
+- Minimum Number of Operations to Make All Array Elements Equal to 1
+- Maximum Number of Operations to Move Ones to the End
+- Increment SubMatrices by One
   
 
 ## Maximum Subarray
@@ -145,6 +147,14 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Minimum Number of Operations to Make All Array Elements Equal to 1 
   Return the minimum number of operations to make all elements of nums equal to 1. If it is impossible, return -1.
+
+  ## Maximum Number of Operations to Move Ones to the End
+  Return the maximum number of operations that you can perform.
+
+  ## Increment SubMatrices by One
+  Return the matrix mat after performing every query.
+
+ 
 
 
 
