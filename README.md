@@ -32,6 +32,7 @@ This repository contains Java implementations of three classic algorithms:
 - Minimum Number of Operations to Make All Array Elements Equal to 1
 - Maximum Number of Operations to Move Ones to the End
 - Increment SubMatrices by One
+- Count the Number of Substrings With Dominant Ones
   
 
 ## Maximum Subarray
@@ -153,6 +154,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Increment SubMatrices by One
   Return the matrix mat after performing every query.
+
+  ## Count the Number of Substrings With Dominant Ones
+  A string has dominant ones if the number of ones in the string is greater than or equal to the square of the number of zeros in the string.
 
  
 
