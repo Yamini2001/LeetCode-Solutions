@@ -33,6 +33,7 @@ This repository contains Java implementations of three classic algorithms:
 - Maximum Number of Operations to Move Ones to the End
 - Increment SubMatrices by One
 - Count the Number of Substrings With Dominant Ones
+- Number of Substrings With Only 1s 
   
 
 ## Maximum Subarray
@@ -158,8 +159,8 @@ Return the maximum possible frequency of any element in nums after performing th
   ## Count the Number of Substrings With Dominant Ones
   A string has dominant ones if the number of ones in the string is greater than or equal to the square of the number of zeros in the string.
 
- 
-
+  ## Number of Substrings With Only 1s 
+  Given a binary string s, return the number of substrings with all characters 1's. Since the answer may be too large, return it modulo 109 + 7.
 
 
 ### Implementation
