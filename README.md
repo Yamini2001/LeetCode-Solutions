@@ -33,7 +33,8 @@ This repository contains Java implementations of three classic algorithms:
 - Maximum Number of Operations to Move Ones to the End
 - Increment SubMatrices by One
 - Count the Number of Substrings With Dominant Ones
-- Number of Substrings With Only 1s 
+- Number of Substrings With Only 1s
+- Check If All 1s Are at Least Length K Places Away 
   
 
 ## Maximum Subarray
@@ -161,6 +162,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Number of Substrings With Only 1s 
   Given a binary string s, return the number of substrings with all characters 1's. Since the answer may be too large, return it modulo 109 + 7.
+
+  ## Check If All 1s Are at Least Length K Places Away 
+  Given an binary array nums and an integer k, return true if all 1's are at least k places away from each other, otherwise return false.
 
 
 ### Implementation
