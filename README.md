@@ -36,6 +36,7 @@ This repository contains Java implementations of three classic algorithms:
 - Number of Substrings With Only 1s
 - Check If All 1s Are at Least Length K Places Away
 - 1-bit and 2-bit Character
+- Keep Multiplying Found Values By Two
   
 
 ## Maximum Subarray
@@ -169,6 +170,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## 1-bit and 2-bit Character
   Given a binary array bits that ends with 0, return true if the last character must be a one-bit character.
+
+  ## Keep Multiplying Found Values By Two
+  We are given an array of integers, nums. We are also given an integer original, which is the first number that needs to be searched for in nums.
 
 
 
