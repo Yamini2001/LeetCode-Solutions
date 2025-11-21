@@ -38,6 +38,7 @@ This repository contains Java implementations of three classic algorithms:
 - 1-bit and 2-bit Character
 - Keep Multiplying Found Values By Two
 - Set Intersection Size AtLeast Two
+- Unique Length-3 Palindromic Sequences
   
 
 ## Maximum Subarray
@@ -177,6 +178,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Set Intersection Size AtLeast Two
   Return the minimum possible size of a containing set.
+
+  ## Unique Length-3 Palindromic Sequences
+  A subsequence of a string is a new string generated from the original string with some characters (can be none) deleted without changing the relative order of the remaining characters.
 
 
 
