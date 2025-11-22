@@ -39,6 +39,7 @@ This repository contains Java implementations of three classic algorithms:
 - Keep Multiplying Found Values By Two
 - Set Intersection Size AtLeast Two
 - Unique Length-3 Palindromic Sequences
+- Find Minimum Operations to Make All Elements Divisible By Three 
   
 
 ## Maximum Subarray
@@ -84,7 +85,7 @@ Return the maximum possible number of distinct elements in nums after performing
 Return the lexicographically smallest string you can obtain by applying the above operations any number of times on s.
 
 ## Value Of Variable After Operations
-Given an array of strings operations containing a list of operations, return the final value of X after performing all the operations.
+Given an array of string operations containing a list of operations, return the final value of X after performing all the operations.
 
 ## Maximum Frequency of elements After Performing Operations
 Return the maximum possible frequency of any element in nums after performing the operations.
@@ -129,7 +130,7 @@ Return the maximum possible frequency of any element in nums after performing th
  Return the minimum time Bob needs to make the rope colourful.
 
  ## Find X-Sum for all K-Long subArrays
- Return an integer array answer of length n - k + 1 where answer[i] is the x-sum of the subarray nums[i..i + k - 1].
+ Return an integer array answer of length n-k+1, where answer[i] is the x-sum of the subarray nums[i..i + k - 1].
 
  ## 4Sum
   return an array of all the unique quadruplets [nums[a], nums[b], nums[c], nums[d]]
@@ -181,6 +182,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Unique Length-3 Palindromic Sequences
   A subsequence of a string is a new string generated from the original string with some characters (can be none) deleted without changing the relative order of the remaining characters.
+
+  ## Find Minimum Operations to Make All Elements Divisible By Three 
+  Return the minimum number of operations to make all elements of nums divisible by 3.
 
 
 
