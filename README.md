@@ -39,7 +39,8 @@ This repository contains Java implementations of three classic algorithms:
 - Keep Multiplying Found Values By Two
 - Set Intersection Size AtLeast Two
 - Unique Length-3 Palindromic Sequences
-- Find Minimum Operations to Make All Elements Divisible By Three 
+- Find Minimum Operations to Make All Elements Divisible By Three
+- Greatest Sum Divisible By Three 
   
 
 ## Maximum Subarray
@@ -185,6 +186,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Find Minimum Operations to Make All Elements Divisible By Three 
   Return the minimum number of operations to make all elements of nums divisible by 3.
+
+  ## Greatest Sum Divisible By Three 
+  Given an integer array nums, return the maximum possible sum of elements of the array such that it is divisible by three.
 
 
 
