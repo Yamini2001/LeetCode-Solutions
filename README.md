@@ -40,7 +40,8 @@ This repository contains Java implementations of three classic algorithms:
 - Set Intersection Size AtLeast Two
 - Unique Length-3 Palindromic Sequences
 - Find Minimum Operations to Make All Elements Divisible By Three
-- Greatest Sum Divisible By Three 
+- Greatest Sum Divisible By Three
+- Binary Prefix Divisible By 5 
   
 
 ## Maximum Subarray
@@ -189,6 +190,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Greatest Sum Divisible By Three 
   Given an integer array nums, return the maximum possible sum of elements of the array such that it is divisible by three.
+
+  ## Binary Prefix Divisible By 5 
+  Return an array of booleans answer where answer[i] is true if xi is divisible by 5.
 
 
 
