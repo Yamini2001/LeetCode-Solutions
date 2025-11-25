@@ -41,7 +41,8 @@ This repository contains Java implementations of three classic algorithms:
 - Unique Length-3 Palindromic Sequences
 - Find Minimum Operations to Make All Elements Divisible By Three
 - Greatest Sum Divisible By Three
-- Binary Prefix Divisible By 5 
+- Binary Prefix Divisible By 5
+- Smallest Integer Divisible By k
   
 
 ## Maximum Subarray
@@ -193,6 +194,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Binary Prefix Divisible By 5 
   Return an array of booleans answer where answer[i] is true if xi is divisible by 5.
+
+  ## Smallest Integer Divisible By k
+  Return the length of n. If there is no such n, return -1.
 
 
 
