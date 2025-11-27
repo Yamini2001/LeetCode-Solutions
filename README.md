@@ -44,6 +44,7 @@ This repository contains Java implementations of three classic algorithms:
 - Binary Prefix Divisible By 5
 - Smallest Integer Divisible By k
 - Path in Matrix Whose Sum is Divisible By K
+- Maximum SubArray Sum With Length
   
 
 ## Maximum Subarray
@@ -201,6 +202,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Path in Matrix Whose Sum is Divisible By K
   Return the number of paths where the sum of the elements on the path is divisible by k. Since the answer may be very large, return it modulo 109 + 7.
+
+  ## Maximum SubArray Sum With Length
+  Return the maximum sum of a subarray of nums, such that the size of the subarray is divisible by k.
 
 
 
