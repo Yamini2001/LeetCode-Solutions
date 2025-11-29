@@ -45,7 +45,8 @@ This repository contains Java implementations of three classic algorithms:
 - Smallest Integer Divisible By k
 - Path in Matrix Whose Sum is Divisible By K
 - Maximum SubArray Sum With Length
-- Maximum Number of K-Divisible Components 
+- Maximum Number of K-Divisible Components
+- Minimum Operations to Make an Array Sum Divisible by k.
   
 
 ## Maximum Subarray
@@ -209,6 +210,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Maximum Number of K-Divisible Components 
   Return the maximum number of components in any valid split.
+
+  ## Minimum Operations to Make an Array Sum Divisible by k.
+  Return the minimum number of operations required to make the sum of the array divisible by k.
 
 
 
