@@ -47,6 +47,7 @@ This repository contains Java implementations of three classic algorithms:
 - Maximum SubArray Sum With Length
 - Maximum Number of K-Divisible Components
 - Minimum Operations to Make an Array Sum Divisible by k.
+- Make Sum Divisible By P
   
 
 ## Maximum Subarray
@@ -213,6 +214,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Minimum Operations to Make an Array Sum Divisible by k.
   Return the minimum number of operations required to make the sum of the array divisible by k.
+
+  ## Make Sum Divisible By P
+  Return the length of the smallest subarray that you need to remove, or -1 if it's impossible.
 
 
 
