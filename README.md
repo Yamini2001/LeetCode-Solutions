@@ -48,6 +48,7 @@ This repository contains Java implementations of three classic algorithms:
 - Maximum Number of K-Divisible Components
 - Minimum Operations to Make an Array Sum Divisible by k.
 - Make Sum Divisible By P
+- Maximum Running Time Of N Computers 
   
 
 ## Maximum Subarray
@@ -217,6 +218,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Make Sum Divisible By P
   Return the length of the smallest subarray that you need to remove, or -1 if it's impossible.
+
+  ## Maximum Running Time Of N Computers 
+  Return the maximum number of minutes you can run all the n computers simultaneously.
 
 
 
