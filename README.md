@@ -48,7 +48,8 @@ This repository contains Java implementations of three classic algorithms:
 - Maximum Number of K-Divisible Components
 - Minimum Operations to Make an Array Sum Divisible by k.
 - Make Sum Divisible By P
-- Maximum Running Time Of N Computers 
+- Maximum Running Time Of N Computers
+- Count Number of Trapezoids
   
 
 ## Maximum Subarray
@@ -221,6 +222,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Maximum Running Time Of N Computers 
   Return the maximum number of minutes you can run all the n computers simultaneously.
+
+  ## Count Number of Trapezoids
+  Return the number of unique horizontal trapezoids that can be formed by choosing any four distinct points from points.
 
 
 
