@@ -50,6 +50,7 @@ This repository contains Java implementations of three classic algorithms:
 - Make Sum Divisible By P
 - Maximum Running Time Of N Computers
 - Count Number of Trapezoids
+- Next Permutation 
   
 
 ## Maximum Subarray
@@ -225,6 +226,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Count Number of Trapezoids
   Return the number of unique horizontal trapezoids that can be formed by choosing any four distinct points from points.
+
+  ## Next Permutation 
+  A permutation of an array of integers is an arrangement of its members into a sequence or linear order.
 
 
 
