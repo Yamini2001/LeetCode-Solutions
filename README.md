@@ -50,7 +50,8 @@ This repository contains Java implementations of three classic algorithms:
 - Make Sum Divisible By P
 - Maximum Running Time Of N Computers
 - Count Number of Trapezoids
-- Next Permutation 
+- Next Permutation
+- Count Collisions on a Road
   
 
 ## Maximum Subarray
@@ -229,6 +230,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Next Permutation 
   A permutation of an array of integers is an arrangement of its members into a sequence or linear order.
+
+  ## Count Collisions on a Road
+  Return the total number of collisions that will happen on the road.
 
 
 
