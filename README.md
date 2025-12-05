@@ -52,6 +52,7 @@ This repository contains Java implementations of three classic algorithms:
 - Count Number of Trapezoids
 - Next Permutation
 - Count Collisions on a Road
+- Count Partitions With Even Sum Difference
   
 
 ## Maximum Subarray
@@ -233,6 +234,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Count Collisions on a Road
   Return the total number of collisions that will happen on the road.
+
+  ## Count Partitions With Even Sum Difference
+  Return the number of partitions where the difference between the sum of the left and right subarrays is even.
 
 
 
