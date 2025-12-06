@@ -53,6 +53,7 @@ This repository contains Java implementations of three classic algorithms:
 - Next Permutation
 - Count Collisions on a Road
 - Count Partitions With Even Sum Difference
+- Count Partitions With Max-Min Difference At Most K
   
 
 ## Maximum Subarray
@@ -237,6 +238,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Count Partitions With Even Sum Difference
   Return the number of partitions where the difference between the sum of the left and right subarrays is even.
+
+  ## Count Partitions With Max-Min Difference At Most K
+  Return the total number of ways to partition nums under this condition.
 
 
 
