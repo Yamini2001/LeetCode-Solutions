@@ -54,7 +54,8 @@ This repository contains Java implementations of three classic algorithms:
 - Count Collisions on a Road
 - Count Partitions With Even Sum Difference
 - Count Partitions With Max-Min Difference At Most K
-- Count Odd Numbers In an Interval Range 
+- Count Odd Numbers In an Interval Range
+- Count Square Sum Triples
   
 
 ## Maximum Subarray
@@ -245,6 +246,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ##  Count Odd Numbers In an Interval Range 
   Given two non-negative integers low and high. Return the count of odd numbers between low and high (inclusive).
+
+  ## Count Square Sum Triples
+  A square triple (a,b,c) is a triple where a, b, and c are integers and a2 + b2 = c2.
 
 
 
