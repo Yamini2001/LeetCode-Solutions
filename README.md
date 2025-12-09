@@ -250,6 +250,9 @@ Return the maximum possible frequency of any element in nums after performing th
   ## Count Square Sum Triples
   A square triple (a,b,c) is a triple where a, b, and c are integers and a2 + b2 = c2.
 
+  ## Count Special Triplets 
+  Return the total number of special triplets in the array.
+
 
 
 
