@@ -57,6 +57,7 @@ This repository contains Java implementations of three classic algorithms:
 - Count Odd Numbers In an Interval Range
 - Count Square Sum Triples
 - Count the Number of Computer Unlocking Permutations
+- Count Covered Buildings
   
 
 ## Maximum Subarray
@@ -256,6 +257,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Count the Number of Computer Unlocking Permutations
   Find the number of permutations of [0, 1, 2, ..., (n - 1)] that represent a valid order in which the computers can be unlocked, starting from computer 0 as the only initially unlocked one.
+
+  ## Count Covered Buildings
+  A building is covered if there is at least one building in all four directions: left, right, above, and below.
 
 
 
