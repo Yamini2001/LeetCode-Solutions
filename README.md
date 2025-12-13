@@ -59,6 +59,7 @@ This repository contains Java implementations of three classic algorithms:
 - Count the Number of Computer Unlocking Permutations
 - Count Covered Buildings
 - Count Mentions Per User
+- Coupon Code Validator
   
 
 ## Maximum Subarray
@@ -263,7 +264,10 @@ Return the maximum possible frequency of any element in nums after performing th
   A building is covered if there is at least one building in all four directions: left, right, above, and below.
 
   ## Count Mentions Per User
-  Return an array mentions where mentions[i] represents the number of mentions the user with id i has across all MESSAGE events.
+  Return an array of mentions where mentions[i] represents the number of mentions the user with id i has across all MESSAGE events.
+
+  ## Coupon Code Validator
+  Return an array of the codes of all valid coupons, sorted first by their businessLine in the order.
 
 
 
