@@ -61,6 +61,7 @@ This repository contains Java implementations of three classic algorithms:
 - Count Mentions Per User
 - Coupon Code Validator
 - Number of Ways To Divide a Long Corridor
+- Number of Smooth Descent Periods of a Stock
   
 
 ## Maximum Subarray
@@ -272,6 +273,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Number of Ways To Divide a Long Corridor
   Return the number of ways to divide the corridor. Since the answer may be very large, return it modulo 109 + 7. If there is no way, return 0.
+
+  ## Number of Smooth Descent Periods of a Stock
+  Return the number of smooth descent periods.
 
 
 
