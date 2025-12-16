@@ -62,6 +62,7 @@ This repository contains Java implementations of three classic algorithms:
 - Coupon Code Validator
 - Number of Ways To Divide a Long Corridor
 - Number of Smooth Descent Periods of a Stock
+- Maximum Profit for Trading Stocks with Discounts 
   
 
 ## Maximum Subarray
@@ -276,6 +277,10 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Number of Smooth Descent Periods of a Stock
   Return the number of smooth descent periods.
+
+  ## Maximum Profit for Trading Stocks with Discounts 
+  Return the maximum profit that can be achieved without exceeding the given budget.
+  
 
 
 
