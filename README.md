@@ -63,7 +63,8 @@ This repository contains Java implementations of three classic algorithms:
 - Number of Ways To Divide a Long Corridor
 - Number of Smooth Descent Periods of a Stock
 - Maximum Profit for Trading Stocks with Discounts
-- Best Time To Buy and Sell Stock 
+- Best Time To Buy and Sell Stock
+- Best Time To Buy Sell Stock using Strategy 
   
 
 ## Maximum Subarray
@@ -284,6 +285,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Best Time To Buy and Sell Stock 
   Return the maximum total profit you can earn by making at most k transactions.
+
+  ## Best Time To Buy Sell Stock using Strategy 
+  Return the maximum possible profit you can achieve.
   
 
 
