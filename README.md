@@ -64,7 +64,8 @@ This repository contains Java implementations of three classic algorithms:
 - Number of Smooth Descent Periods of a Stock
 - Maximum Profit for Trading Stocks with Discounts
 - Best Time To Buy and Sell Stock
-- Best Time To Buy Sell Stock using Strategy 
+- Best Time To Buy Sell Stock using Strategy
+- Find All People With Secret
   
 
 ## Maximum Subarray
@@ -288,6 +289,10 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Best Time To Buy Sell Stock using Strategy 
   Return the maximum possible profit you can achieve.
+
+  ## Find All People With Secret
+  Return a list of all the people who have the secret after all the meetings have taken place. You can just return the answer in any order, if you don't mind.
+
   
 
 
