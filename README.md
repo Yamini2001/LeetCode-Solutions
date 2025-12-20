@@ -66,6 +66,7 @@ This repository contains Java implementations of three classic algorithms:
 - Best Time To Buy and Sell Stock
 - Best Time To Buy Sell Stock using Strategy
 - Find All People With Secret
+- Delete Columns to Make Sorted 
   
 
 ## Maximum Subarray
@@ -292,6 +293,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Find All People With Secret
   Return a list of all the people who have the secret after all the meetings have taken place. You can just return the answer in any order, if you don't mind.
+
+  ## Delete Columns to Make Sorted 
+  Return the number of columns that you will delete.
 
   
 
