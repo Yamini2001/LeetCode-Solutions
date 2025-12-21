@@ -66,7 +66,8 @@ This repository contains Java implementations of three classic algorithms:
 - Best Time To Buy and Sell Stock
 - Best Time To Buy Sell Stock using Strategy
 - Find All People With Secret
-- Delete Columns to Make Sorted 
+- Delete Columns to Make Sorted
+- Jump Game
   
 
 ## Maximum Subarray
@@ -296,6 +297,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Delete Columns to Make Sorted 
   Return the number of columns that you will delete.
+
+  ## Jump Game
+  Return the minimum number of jumps to reach index n - 1. The test cases are generated such that you can reach index n - 1.
 
   
 
