@@ -69,7 +69,7 @@ This repository contains Java implementations of three classic algorithms:
 - Delete Columns to Make Sorted
 - Jump Game
 - Merge K Sorted List
-  
+- Two Best NonOverlapping Events
 
 ## Maximum Subarray
 
@@ -302,14 +302,14 @@ Return the maximum possible frequency of any element in nums after performing th
   ## Jump Game
   Return the minimum number of jumps to reach index n - 1. The test cases are generated such that you can reach index n - 1.
 
-  ## Merge K Sorted List
+  ## Merge K Sorted Lists
   Merge all the linked-lists into one sorted linked-list and return it.
 
+  ## Two Best Non-Overlapping Events
+  Choose at most two non-overlapping events to attend such that the sum of their values is maximised.
   
 
-
-
-
+  
 ### Implementation
 
 - **File:** `regular_expression_matching.java`
