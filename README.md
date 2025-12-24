@@ -69,7 +69,8 @@ This repository contains Java implementations of three classic algorithms:
 - Delete Columns to Make Sorted
 - Jump Game
 - Merge K Sorted List
-- Two Best NonOverlapping Events
+- Two Best Non-Overlapping Events
+- Apple Redistribution into Boxes
 
 ## Maximum Subarray
 
@@ -307,6 +308,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Two Best Non-Overlapping Events
   Choose at most two non-overlapping events to attend such that the sum of their values is maximised.
+
+  ## Apple Redistribution into Boxes
+  Return the minimum number of boxes you need to select to redistribute these n packs of apples into boxes.
   
 
   
