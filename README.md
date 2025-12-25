@@ -71,6 +71,7 @@ This repository contains Java implementations of three classic algorithms:
 - Merge K Sorted List
 - Two Best Non-Overlapping Events
 - Apple Redistribution into Boxes
+- Maximize Happiness of Selected Children
 
 ## Maximum Subarray
 
@@ -311,6 +312,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Apple Redistribution into Boxes
   Return the minimum number of boxes you need to select to redistribute these n packs of apples into boxes.
+
+  ## Maximise Happiness of Selected Children
+  Return the maximum sum of the happiness values of the selected children you can achieve by selecting k children.
   
 
   
