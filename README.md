@@ -71,7 +71,8 @@ This repository contains Java implementations of three classic algorithms:
 - Merge K Sorted List
 - Two Best Non-Overlapping Events
 - Apple Redistribution into Boxes
-- Maximize Happiness of Selected Children
+- Maximise Happiness of Selected Children
+- Minimum Penalty for a Shop
 
 ## Maximum Subarray
 
@@ -315,6 +316,10 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Maximise Happiness of Selected Children
   Return the maximum sum of the happiness values of the selected children you can achieve by selecting k children.
+
+  ## Minimum Penalty for a Shop
+  Return the earliest hour at which the shop must be closed to incur a minimum penalty.
+  
   
 
   
