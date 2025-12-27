@@ -73,6 +73,7 @@ This repository contains Java implementations of three classic algorithms:
 - Apple Redistribution into Boxes
 - Maximise Happiness of Selected Children
 - Minimum Penalty for a Shop
+- Meeting Rooms
 
 ## Maximum Subarray
 
@@ -306,7 +307,7 @@ Return the maximum possible frequency of any element in nums after performing th
   Return the minimum number of jumps to reach index n - 1. The test cases are generated such that you can reach index n - 1.
 
   ## Merge K Sorted Lists
-  Merge all the linked-lists into one sorted linked-list and return it.
+  Merge all the linked lists into one sorted linked list and return it.
 
   ## Two Best Non-Overlapping Events
   Choose at most two non-overlapping events to attend such that the sum of their values is maximised.
@@ -319,6 +320,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Minimum Penalty for a Shop
   Return the earliest hour at which the shop must be closed to incur a minimum penalty.
+
+  ## Meeting Rooms
+  Return the number of the room that held the most meetings. If there are multiple rooms, return the room with the lowest number.
   
   
 
