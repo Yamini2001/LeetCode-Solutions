@@ -74,6 +74,7 @@ This repository contains Java implementations of three classic algorithms:
 - Maximise Happiness of Selected Children
 - Minimum Penalty for a Shop
 - Meeting Rooms
+- Count Negative Numbers in a Sorted Matrix
 
 ## Maximum Subarray
 
@@ -323,6 +324,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Meeting Rooms
   Return the number of the room that held the most meetings. If there are multiple rooms, return the room with the lowest number.
+
+  ## Count Negative Numbers in a Sorted Matrix
+  Given a m x n matrix grid which is sorted in non-increasing order both row-wise and column-wise, return the number of negative numbers in grid.
   
   
 
