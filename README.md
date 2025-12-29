@@ -74,6 +74,8 @@ This repository contains Java implementations of three classic algorithms:
 - Maximise Happiness of Selected Children
 - Minimum Penalty for a Shop
 - Meeting Rooms
+- Count Negative Numbers in a Sorted Matrix
+- Pyramid Transition Matrix
 
 ## Maximum Subarray
 
@@ -323,6 +325,12 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Meeting Rooms
   Return the number of the room that held the most meetings. If there are multiple rooms, return the room with the lowest number.
+
+  ## Count Negative Numbers in a Sorted Matrix
+  Given an m x n matrix grid which is sorted in non-increasing order both row-wise and column-wise, return the number of negative numbers in the grid.
+
+  ## Pyramid Transition Matrix
+  Given a bottom and allowed, return true if we can build the pyramid all the way to the top such that every triangular pattern in the pyramid is in allowed, or false otherwise.
   
   
 
