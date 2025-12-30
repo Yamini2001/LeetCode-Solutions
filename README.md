@@ -76,6 +76,7 @@ This repository contains Java implementations of three classic algorithms:
 - Meeting Rooms
 - Count Negative Numbers in a Sorted Matrix
 - Pyramid Transition Matrix
+- Magic Squares in Grid
 
 ## Maximum Subarray
 
@@ -331,6 +332,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Pyramid Transition Matrix
   Given a bottom and allowed, return true if we can build the pyramid all the way to the top such that every triangular pattern in the pyramid is in allowed, or false otherwise.
+
+  ## Magic Squares in Grid
+  A 3 x 3 magic square is a 3 x 3 grid filled with distinct numbers from 1 to 9 such that each row, column, and both diagonals all have the same sum.
   
   
 
