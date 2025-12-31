@@ -77,6 +77,7 @@ This repository contains Java implementations of three classic algorithms:
 - Count Negative Numbers in a Sorted Matrix
 - Pyramid Transition Matrix
 - Magic Squares in Grid
+- Last Day Where You Can Still Cross
 
 ## Maximum Subarray
 
@@ -335,6 +336,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Magic Squares in Grid
   A 3 x 3 magic square is a 3 x 3 grid filled with distinct numbers from 1 to 9 such that each row, column, and both diagonals all have the same sum.
+
+  ## Last Day Where You Can Still Cross
+  Return the last day where it is possible to walk from the top to the bottom by only walking on land cells.
   
   
 
