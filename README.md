@@ -77,7 +77,8 @@ This repository contains Java implementations of three classic algorithms:
 - Count Negative Numbers in a Sorted Matrix
 - Pyramid Transition Matrix
 - Magic Squares in Grid
-- Last Day Where You Can Still Cross
+- Last Day You Can Still Cross
+- Plus One
 
 ## Maximum Subarray
 
@@ -339,6 +340,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Last Day Where You Can Still Cross
   Return the last day where it is possible to walk from the top to the bottom by only walking on land cells.
+
+  ## Plus One
+  Increment the large integer by one and return the resulting array of digits.
   
   
 
