@@ -79,6 +79,7 @@ This repository contains Java implementations of three classic algorithms:
 - Magic Squares in Grid
 - Last Day You Can Still Cross
 - Plus One
+- N-Repeated Element in size 2N Array
 
 ## Maximum Subarray
 
@@ -343,6 +344,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Plus One
   Increment the large integer by one and return the resulting array of digits.
+
+  ## N-Repeated Element in Size 2N Array
+  Return the element that is repeated n times.
   
   
 
