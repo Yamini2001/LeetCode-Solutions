@@ -80,6 +80,7 @@ This repository contains Java implementations of three classic algorithms:
 - Last Day You Can Still Cross
 - Plus One
 - N-Repeated Element in size 2N Array
+- Number of Ways to Paint N*3 Grid
 
 ## Maximum Subarray
 
@@ -347,7 +348,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## N-Repeated Element in Size 2N Array
   Return the element that is repeated n times.
-  
+
+  ## Number of Ways to Paint N*3 Grid
+  Given n the number of rows of the grid, return the number of ways you can paint this grid. As the answer may grow large, the answer must be computed modulo 109 + 7.
   
 
   
