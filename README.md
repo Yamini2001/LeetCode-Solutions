@@ -81,6 +81,7 @@ This repository contains Java implementations of three classic algorithms:
 - Plus One
 - N-Repeated Element in size 2N Array
 - Number of Ways to Paint N*3 Grid
+- Four Divisors
 
 ## Maximum Subarray
 
@@ -350,7 +351,10 @@ Return the maximum possible frequency of any element in nums after performing th
   Return the element that is repeated n times.
 
   ## Number of Ways to Paint N*3 Grid
-  Given n the number of rows of the grid, return the number of ways you can paint this grid. As the answer may grow large, the answer must be computed modulo 109 + 7.
+  Given n, the number of rows of the grid, return the number of ways you can paint this grid. As the answer may grow large, the answer must be computed modulo 109 + 7.
+
+  ## Four Divisors
+  Given an integer array nums, return the sum of divisors of the integers in that array that have exactly four divisors. If there is no such integer in the array, return 0.
   
 
   
