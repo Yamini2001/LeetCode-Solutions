@@ -83,6 +83,7 @@ This repository contains Java implementations of three classic algorithms:
 - Number of Ways to Paint N*3 Grid
 - Four Divisors
 - Maximum Matrix Sum
+- Maximum Level Sum of a Binary Tree
 
 ## Maximum Subarray
 
@@ -358,7 +359,10 @@ Return the maximum possible frequency of any element in nums after performing th
   Given an integer array nums, return the sum of divisors of the integers in that array that have exactly four divisors. If there is no such integer in the array, return 0.
 
   ## Maximum Matrix Sum
-  To maximize the summation of the matrix's elements. Return the maximum sum of the matrix's elements using the operation.
+  To maximise the summation of the matrix's elements. Return the maximum sum of the matrix's elements using the operation.
+
+  ## Maximum Level Sum of a Binary Tree
+  Return the smallest level x such that the sum of all the values of nodes at level x is maximal.
   
 
   
