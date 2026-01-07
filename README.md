@@ -84,6 +84,7 @@ This repository contains Java implementations of three classic algorithms:
 - Four Divisors
 - Maximum Matrix Sum
 - Maximum Level Sum of a Binary Tree
+- Maximum Product of Split Binary Tree 
 
 ## Maximum Subarray
 
@@ -363,6 +364,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Maximum Level Sum of a Binary Tree
   Return the smallest level x such that the sum of all the values of nodes at level x is maximal.
+
+  ## Maximum Product of Split Binary Tree 
+  Return the maximum product of the sums of the two subtrees. Since the answer may be too large, return it modulo 109 + 7.
   
 
   
