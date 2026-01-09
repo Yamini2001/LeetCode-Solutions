@@ -86,6 +86,7 @@ This repository contains Java implementations of three classic algorithms:
 - Maximum Level Sum of a Binary Tree
 - Maximum Product of Split Binary Tree
 - Max Dot Product of Two Subsequences
+- Smallest Subtree with all the Deepest Nodes
 
 ## Maximum Subarray
 
@@ -371,6 +372,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Max Dot Product of Two Subsequences
   Return the maximum dot product between non-empty subsequences of nums1 and nums2 with the same length.
+
+  ## Smallest Subtree with all the Deepest Nodes
+  Return the smallest subtree such that it contains all the deepest nodes in the original tree.
   
 
   
