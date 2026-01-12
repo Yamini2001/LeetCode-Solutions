@@ -89,6 +89,7 @@ This repository contains Java implementations of three classic algorithms:
 - Smallest Subtree with all the Deepest Nodes
 - Minimum ASCII Delete Sum of Two Strings
 - Maximal Rectangle
+- Minimum time Visiting All Points
 
 ## Maximum Subarray
 
@@ -383,6 +384,10 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Maximal Rectangle
   Given a rows x cols binary matrix filled with 0's and 1's, find the largest rectangle containing only 1's and return its area.
+
+  ## Minimum Time Visiting All Points
+   Return the minimum time in seconds to visit all the points in the order given by points.
+
   
 
   
