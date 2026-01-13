@@ -90,6 +90,7 @@ This repository contains Java implementations of three classic algorithms:
 - Minimum ASCII Delete Sum of Two Strings
 - Maximal Rectangle
 - Minimum time Visiting All Points
+- Separate Squares 
 
 ## Maximum Subarray
 
@@ -387,6 +388,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Minimum Time Visiting All Points
    Return the minimum time in seconds to visit all the points in the order given by points.
+
+   ## Separate Sqaures 
+   Find the minimum y-coordinate value of a horizontal line such that the total area of the squares above the line equals the total area of the squares below the line.
 
   
 
