@@ -87,7 +87,10 @@ This repository contains Java implementations of three classic algorithms:
 - Maximum Product of Split Binary Tree
 - Max Dot Product of Two Subsequences
 - Smallest Subtree with all the Deepest Nodes
-- Minimum ASCII Delete Sum of Two Strings 
+- Minimum ASCII Delete Sum of Two Strings
+- Maximal Rectangle
+- Minimum time Visiting All Points
+- Separate Squares 
 
 ## Maximum Subarray
 
@@ -379,6 +382,16 @@ Return the maximum possible frequency of any element in nums after performing th
 
   ## Minimum ASCII Delete Sum of Two Strings
   Return the lowest ASCII sum of deleted characters to make two strings equal.
+
+  ## Maximal Rectangle
+  Given a rows x cols binary matrix filled with 0's and 1's, find the largest rectangle containing only 1's and return its area.
+
+  ## Minimum Time Visiting All Points
+   Return the minimum time in seconds to visit all the points in the order given by points.
+
+   ## Separate Sqaures 
+   Find the minimum y-coordinate value of a horizontal line such that the total area of the squares above the line equals the total area of the squares below the line.
+
   
 
   
