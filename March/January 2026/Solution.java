@@ -8,8 +8,6 @@ public class Solution {
             }
         }
 
-        return goal == 0;        
+        return goal == 0;
     }
-} JumpGame {
-    
 }
