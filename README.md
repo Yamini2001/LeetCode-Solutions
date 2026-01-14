@@ -90,7 +90,8 @@ This repository contains Java implementations of three classic algorithms:
 - Minimum ASCII Delete Sum of Two Strings
 - Maximal Rectangle
 - Minimum time Visiting All Points
-- Separate Squares 
+- Separate Squares
+- Jump Game
 
 ## Maximum Subarray
 
@@ -391,6 +392,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Separate Sqaures 
    Find the minimum y-coordinate value of a horizontal line such that the total area of the squares above the line equals the total area of the squares below the line.
+
+   ## Jump Game
+   Return true if you can reach the last index, or false otherwise.
 
   
 
