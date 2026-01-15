@@ -92,6 +92,7 @@ This repository contains Java implementations of three classic algorithms:
 - Minimum time Visiting All Points
 - Separate Squares
 - Jump Game
+- Maximise Area of Square Hole in Grid
 
 ## Maximum Subarray
 
@@ -395,6 +396,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Jump Game
    Return true if you can reach the last index, or false otherwise.
+
+   ## Maximise Area of Square Hole in Grid
+   Return an integer denoting the maximum area of a square-shaped hole in the grid, after removing some bars (possibly none).
 
   
 
