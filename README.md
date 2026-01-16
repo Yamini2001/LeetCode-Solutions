@@ -93,6 +93,7 @@ This repository contains Java implementations of three classic algorithms:
 - Separate Squares
 - Jump Game
 - Maximise Area of Square Hole in Grid
+- Maximum Square Area by Removing Fences From a Field 
 
 ## Maximum Subarray
 
@@ -399,6 +400,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Maximise Area of Square Hole in Grid
    Return an integer denoting the maximum area of a square-shaped hole in the grid, after removing some bars (possibly none).
+
+   ## Maximum Square Area by Removing Fences From a Field 
+   Return the maximum area of a square field that can be formed by removing some fences (possibly none) or -1 if it is impossible to make a square field.
 
   
 
