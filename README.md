@@ -95,6 +95,7 @@ This repository contains Java implementations of three classic algorithms:
 - Maximise Area of Square Hole in Grid
 - Maximum Square Area by Removing Fences From a Field
 - Find the largest area of a square inside two Rectangles
+- Largest Magic Square
 
 ## Maximum Subarray
 
@@ -407,6 +408,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Find the largest area of a square inside two rectangles
    Find the maximum area of a square that can fit inside the intersecting region of at least two rectangles. Return 0 if such a square does not exist.
+
+   ## Largest Magic Square
+   Given an m x n integer grid, return the size (i.e., the side length k) of the largest magic square that can be found within this grid.
 
   
 
