@@ -96,6 +96,7 @@ This repository contains Java implementations of three classic algorithms:
 - Maximum Square Area by Removing Fences From a Field
 - Find the largest area of a square inside two Rectangles
 - Largest Magic Square
+- Maximum Side Length of a Square with Sum Less than or Equal to Threshold
 
 ## Maximum Subarray
 
@@ -411,6 +412,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Largest Magic Square
    Given an m x n integer grid, return the size (i.e., the side length k) of the largest magic square that can be found within this grid.
+
+   ## Maximum Side Length of a Square with Sum Less than or Equal to Threshold
+   Given a m x n matrix mat and an integer threshold, return the maximum side-length of a square with a sum less than or equal to threshold or return 0 if there is no such square.
 
   
 
