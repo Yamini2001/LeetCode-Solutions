@@ -97,6 +97,7 @@ This repository contains Java implementations of three classic algorithms:
 - Find the largest area of a square inside two Rectangles
 - Largest Magic Square
 - Maximum Side Length of a Square with Sum Less than or Equal to Threshold
+- Construct the Minimum Bitwise Array
 
 ## Maximum Subarray
 
@@ -415,6 +416,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Maximum Side Length of a Square with Sum Less than or Equal to Threshold
    Given a m x n matrix mat and an integer threshold, return the maximum side-length of a square with a sum less than or equal to threshold or return 0 if there is no such square.
+
+   ## Construct the Minimum Bitwise Array
+   To construct an array ans of length n, such that, for each index i, the bitwise OR of ans[i] and ans[i] + 1 is equal to nums[i], i.e. ans[i] OR (ans[i] + 1) == nums[i].
 
   
 
