@@ -98,6 +98,7 @@ This repository contains Java implementations of three classic algorithms:
 - Largest Magic Square
 - Maximum Side Length of a Square with Sum Less than or Equal to Threshold
 - Construct the Minimum Bitwise Array
+- Divide Two Integers 
 
 ## Maximum Subarray
 
@@ -415,10 +416,13 @@ Return the maximum possible frequency of any element in nums after performing th
    Given an m x n integer grid, return the size (i.e., the side length k) of the largest magic square that can be found within this grid.
 
    ## Maximum Side Length of a Square with Sum Less than or Equal to Threshold
-   Given a m x n matrix mat and an integer threshold, return the maximum side-length of a square with a sum less than or equal to threshold or return 0 if there is no such square.
+   Given an m x n matrix mat and an integer threshold, return the maximum side-length of a square with a sum less than or equal to threshold or return 0 if there is no such square.
 
    ## Construct the Minimum Bitwise Array
    To construct an array ans of length n, such that, for each index i, the bitwise OR of ans[i] and ans[i] + 1 is equal to nums[i], i.e. ans[i] OR (ans[i] + 1) == nums[i].
+
+   ## Divide Two Integers 
+   Return the quotient after dividing the dividend by the divisor.
 
   
 
