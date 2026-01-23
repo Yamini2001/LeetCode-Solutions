@@ -98,7 +98,9 @@ This repository contains Java implementations of three classic algorithms:
 - Largest Magic Square
 - Maximum Side Length of a Square with Sum Less than or Equal to Threshold
 - Construct the Minimum Bitwise Array
-- Divide Two Integers 
+- Divide Two Integers
+- Minimum Pair Removal to Sort Array
+- N-Queens
 
 ## Maximum Subarray
 
@@ -423,6 +425,12 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Divide Two Integers 
    Return the quotient after dividing the dividend by the divisor.
+
+   ## Minimum Pair Removal to Sort Array
+   Return the minimum number of operations needed to make the array non-decreasing.
+
+   ## N-Queens
+   Each solution contains a distinct board configuration of the n-queens' placement, where 'Q' and '.' both indicate a queen and an empty space, respectively.
 
   
 
