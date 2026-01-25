@@ -102,6 +102,7 @@ This repository contains Java implementations of three classic algorithms:
 - Minimum Pair Removal to Sort Array
 - N-Queens
 - Minimise Maximum Pair Sum in Array
+- Minimum Difference Between Highest and Lowest of K Scores
 
 ## Maximum Subarray
 
@@ -434,7 +435,10 @@ Return the maximum possible frequency of any element in nums after performing th
    Each solution contains a distinct board configuration of the n-queens' placement, where 'Q' and '.' both indicate a queen and an empty space, respectively.
 
    ## Minimise Maximum Pair Sum in Array
-   Return the minimized maximum pair sum after optimally pairing up the elements.
+   Return the minimised maximum pair sum after optimally pairing up the elements.
+
+   ## Minimum Difference Between Highest and Lowest of K Scores
+   Return the minimum possible difference.
    
 
   
