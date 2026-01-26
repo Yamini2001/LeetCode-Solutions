@@ -103,6 +103,7 @@ This repository contains Java implementations of three classic algorithms:
 - N-Queens
 - Minimise Maximum Pair Sum in Array
 - Minimum Difference Between Highest and Lowest of K Scores
+- Minimum Absolute Difference
 
 ## Maximum Subarray
 
@@ -439,6 +440,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Minimum Difference Between Highest and Lowest of K Scores
    Return the minimum possible difference.
+
+   ## Minimum Absolute Difference 
+   Given an array of distinct integers arr, find all pairs of elements with the minimum absolute difference of any two elements.
    
 
   
