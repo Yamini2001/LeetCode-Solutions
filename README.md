@@ -104,6 +104,7 @@ This repository contains Java implementations of three classic algorithms:
 - Minimise Maximum Pair Sum in Array
 - Minimum Difference Between Highest and Lowest of K Scores
 - Minimum Absolute Difference
+- Minimum Cost Path Difference with Edge Reversals
 
 ## Maximum Subarray
 
@@ -443,6 +444,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Minimum Absolute Difference 
    Given an array of distinct integers arr, find all pairs of elements with the minimum absolute difference of any two elements.
+
+   ## Minimum Cost Path Difference with Edge Reversals
+   Return the minimum total cost to travel from node 0 to node n - 1. If it is not possible, return -1.
    
 
   
