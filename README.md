@@ -105,6 +105,7 @@ This repository contains Java implementations of three classic algorithms:
 - Minimum Difference Between Highest and Lowest of K Scores
 - Minimum Absolute Difference
 - Minimum Cost Path Difference with Edge Reversals
+- Minimum Cost Path with Teleportations
 
 ## Maximum Subarray
 
@@ -447,6 +448,10 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Minimum Cost Path Difference with Edge Reversals
    Return the minimum total cost to travel from node 0 to node n - 1. If it is not possible, return -1.
+
+   ## Minimum Cost Path with Teleportations
+   Return the minimum total cost to reach cell (m - 1, n - 1) from (0, 0).
+
    
 
   
