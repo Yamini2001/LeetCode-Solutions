@@ -106,7 +106,8 @@ This repository contains Java implementations of three classic algorithms:
 - Minimum Absolute Difference
 - Minimum Cost Path Difference with Edge Reversals
 - Minimum Cost Path with Teleportations
-- Minimum Cost to Convert String 
+- Minimum Cost to Convert String
+- Wildcard Matching 
 
 ## Maximum Subarray
 
@@ -455,6 +456,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Minimum Cost to Convert String 
    Return the minimum cost to convert the string source to the string target using any number of operations. If it is impossible to convert source to target, return -1.
+
+   ## Wildcard Matching
+   The matching should cover the entire input string (not partial).
 
    
 
