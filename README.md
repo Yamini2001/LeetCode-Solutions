@@ -107,7 +107,8 @@ This repository contains Java implementations of three classic algorithms:
 - Minimum Cost Path Difference with Edge Reversals
 - Minimum Cost Path with Teleportations
 - Minimum Cost to Convert String
-- Wildcard Matching 
+- Wildcard Matching
+- Find Smallest Letter Greater than Target
 
 ## Maximum Subarray
 
@@ -459,6 +460,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Wildcard Matching
    The matching should cover the entire input string (not partial).
+
+   ## Find Smallest Letter Greater than Target
+   Return the smallest character in letters that is lexicographically greater than target. If such a character does not exist, return the first character in letters.
 
    
 
