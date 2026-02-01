@@ -109,6 +109,7 @@ This repository contains Java implementations of three classic algorithms:
 - Minimum Cost to Convert String
 - Wildcard Matching
 - Find Smallest Letter Greater than Target
+- Divide an Array Into SubArrays With Minimum Cost 
 
 ## Maximum Subarray
 
@@ -463,6 +464,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Find Smallest Letter Greater than Target
    Return the smallest character in letters that is lexicographically greater than target. If such a character does not exist, return the first character in letters.
+
+   ## Divide an Array Into SubArrays With Minimum Cost
+   Return the minimum possible sum of the cost of these subarrays.
 
    
 
