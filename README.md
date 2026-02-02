@@ -109,7 +109,8 @@ This repository contains Java implementations of three classic algorithms:
 - Minimum Cost to Convert String
 - Wildcard Matching
 - Find Smallest Letter Greater than Target
-- Divide an Array Into SubArrays With Minimum Cost 
+- Divide an Array Into SubArrays With Minimum Cost
+- Search in Rotated Sorted Array 
 
 ## Maximum Subarray
 
@@ -467,6 +468,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Divide an Array Into SubArrays With Minimum Cost
    Return the minimum possible sum of the cost of these subarrays.
+
+   ## Search in Rotated Sorted Array
+   Given the array nums after the possible rotation and an integer target, return the index of target if it is in nums, or -1 if it is not in nums.
 
    
 
