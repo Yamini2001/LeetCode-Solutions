@@ -110,7 +110,9 @@ This repository contains Java implementations of three classic algorithms:
 - Wildcard Matching
 - Find Smallest Letter Greater than Target
 - Divide an Array Into SubArrays With Minimum Cost
-- Search in Rotated Sorted Array 
+- Search in Rotated Sorted Array
+- Trionic Array
+- Rotate List
 
 ## Maximum Subarray
 
@@ -471,6 +473,13 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Search in Rotated Sorted Array
    Given the array nums after the possible rotation and an integer target, return the index of target if it is in nums, or -1 if it is not in nums.
+
+   ## Trionic Array
+   Return true if nums is trionic, otherwise return false.
+
+   ## Rotate List
+   Given the head of a linked list, rotate the list to the right by k places.
+   
 
    
 
