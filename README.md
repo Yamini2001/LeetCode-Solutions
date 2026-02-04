@@ -112,6 +112,7 @@ This repository contains Java implementations of three classic algorithms:
 - Divide an Array Into SubArrays With Minimum Cost
 - Search in Rotated Sorted Array
 - Trionic Array
+- Rotate List
 
 ## Maximum Subarray
 
@@ -475,6 +476,10 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Trionic Array
    Return true if nums is trionic, otherwise return false.
+
+   ## Rotate List
+   Given the head of a linked list, rotate the list to the right by k places.
+   
 
    
 
