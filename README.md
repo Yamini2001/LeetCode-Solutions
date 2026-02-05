@@ -113,6 +113,7 @@ This repository contains Java implementations of three classic algorithms:
 - Search in Rotated Sorted Array
 - Trionic Array
 - Rotate List
+- Transformed Array
 
 ## Maximum Subarray
 
@@ -479,6 +480,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Rotate List
    Given the head of a linked list, rotate the list to the right by k places.
+
+   ## Transformed Array
+   Given an integer array nums that represents a circular array. Your task is to create a new array of the same size.
    
 
    
