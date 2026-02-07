@@ -114,6 +114,7 @@ This repository contains Java implementations of three classic algorithms:
 - Trionic Array
 - Rotate List
 - Transformed Array
+- Minimum Deletions to Make String Balanced
 
 ## Maximum Subarray
 
@@ -483,6 +484,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Transformed Array
    Given an integer array nums that represents a circular array. Your task is to create a new array of the same size.
+
+   ## Minimum Deletions to Make String Balanced
+   Return the minimum number of deletions needed to make s balanced.
    
 
    
