@@ -115,6 +115,7 @@ This repository contains Java implementations of three classic algorithms:
 - Rotate List
 - Transformed Array
 - Minimum Deletions to Make String Balanced
+- Balanced Binary Tree
 
 ## Maximum Subarray
 
@@ -487,6 +488,10 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Minimum Deletions to Make String Balanced
    Return the minimum number of deletions needed to make s balanced.
+
+   ## Balanced Binary Tree
+   Given a binary tree, determine if it is height-balanced.
+   
    
 
    
