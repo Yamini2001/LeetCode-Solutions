@@ -116,6 +116,7 @@ This repository contains Java implementations of three classic algorithms:
 - Transformed Array
 - Minimum Deletions to Make String Balanced
 - Balanced Binary Tree
+- Longest Valid Parenthesis
 
 ## Maximum Subarray
 
@@ -491,6 +492,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Balanced Binary Tree
    Given a binary tree, determine if it is height-balanced.
+
+   ##  Longest Valid Parenthesis
+   Given a string containing just the characters '(' and ')', return the length of the longest valid (well-formed) parentheses substring.
    
    
 
