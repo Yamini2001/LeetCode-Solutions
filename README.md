@@ -117,6 +117,7 @@ This repository contains Java implementations of three classic algorithms:
 - Minimum Deletions to Make String Balanced
 - Balanced Binary Tree
 - Longest Valid Parenthesis
+- Longest Balanced SubArray
 
 ## Maximum Subarray
 
@@ -495,6 +496,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ##  Longest Valid Parenthesis
    Given a string containing just the characters '(' and ')', return the length of the longest valid (well-formed) parentheses substring.
+
+   ## Longest Balanced SubArray
+   A subarray is called balanced if the number of distinct even numbers in the subarray is equal to the number of distinct odd numbers.
    
    
 
