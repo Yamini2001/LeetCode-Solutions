@@ -119,6 +119,7 @@ This repository contains Java implementations of three classic algorithms:
 - Longest Valid Parenthesis
 - Longest Balanced SubArray
 - Insert Interval
+- Word Search
 
 ## Maximum Subarray
 
@@ -503,6 +504,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Insert Interval
    Return intervals after the insertion.
+
+   ## Word Search
+   The word can be constructed from letters of sequentially adjacent cells, where adjacent cells are horizontally or vertically neighboring. The same letter cell may not be used more than once.
    
    
 
