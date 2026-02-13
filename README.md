@@ -120,6 +120,7 @@ This repository contains Java implementations of three classic algorithms:
 - Longest Balanced SubArray
 - Insert Interval
 - Word Search
+- Add Binary
 
 ## Maximum Subarray
 
@@ -507,6 +508,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Word Search
    The word can be constructed from letters of sequentially adjacent cells, where adjacent cells are horizontally or vertically neighboring. The same letter cell may not be used more than once.
+
+   ## Add Binary
+   Given two binary strings a and b, return their sum as a binary string.
    
    
 
