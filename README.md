@@ -121,6 +121,7 @@ This repository contains Java implementations of three classic algorithms:
 - Insert Interval
 - Word Search
 - Add Binary
+- Champagne Power
 
 ## Maximum Subarray
 
@@ -511,6 +512,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Add Binary
    Given two binary strings a and b, return their sum as a binary string.
+
+   ## Champagne Power
+   We stack glasses in a pyramid, where the first row has 1 glass, the second row has 2 glasses, and so on until the 100th row.  Each glass holds one cup of champagne.
    
    
 
