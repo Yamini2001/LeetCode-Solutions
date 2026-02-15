@@ -122,6 +122,7 @@ This repository contains Java implementations of three classic algorithms:
 - Word Search
 - Add Binary
 - Champagne Power
+- Unique Paths
 
 ## Maximum Subarray
 
@@ -515,6 +516,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Champagne Power
    We stack glasses in a pyramid, where the first row has 1 glass, the second row has 2 glasses, and so on until the 100th row.  Each glass holds one cup of champagne.
+
+   ## Unique Paths
+   Given the two integers m and n, return the number of possible unique paths that the robot can take to reach the bottom-right corner.
    
    
 
