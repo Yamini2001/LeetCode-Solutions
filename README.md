@@ -123,6 +123,7 @@ This repository contains Java implementations of three classic algorithms:
 - Add Binary
 - Champagne Power
 - Unique Paths
+- Reverse Bits
 
 ## Maximum Subarray
 
@@ -519,6 +520,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Unique Paths
    Given the two integers m and n, return the number of possible unique paths that the robot can take to reach the bottom-right corner.
+
+   ## Reverse Bits
+   Reverse bits of a given 32 bits signed integer.
    
    
 
