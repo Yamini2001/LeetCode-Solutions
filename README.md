@@ -124,6 +124,7 @@ This repository contains Java implementations of three classic algorithms:
 - Champagne Power
 - Unique Paths
 - Reverse Bits
+- Binary Watch
 
 ## Maximum Subarray
 
@@ -523,6 +524,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Reverse Bits
    Reverse bits of a given 32 bits signed integer.
+
+   ## Binary Watch
+   A binary watch has 4 LEDs on the top to represent the hours (0-11), and 6 LEDs on the bottom to represent the minutes (0-59). Each LED represents a zero or one, with the least significant bit on the right.
    
    
 
