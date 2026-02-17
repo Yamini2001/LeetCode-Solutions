@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.*;
+
 class Solution {
     public List<String> readBinaryWatch(int k) {
         if (k == 0)
