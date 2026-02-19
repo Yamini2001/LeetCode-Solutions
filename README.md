@@ -126,6 +126,7 @@ This repository contains Java implementations of three classic algorithms:
 - Reverse Bits
 - Binary Watch
 - Binary Number With Alternating Bits
+- Count Binary Substrings 
 
 ## Maximum Subarray
 
@@ -531,6 +532,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Binary Number With Alternating Bits
    Given a positive integer, check whether it has alternating bits: namely, if two adjacent bits will always have different values.
+
+   ## Count Binary Substrings 
+   Substrings that occur multiple times are counted the number of times they occur.
    
    
 
