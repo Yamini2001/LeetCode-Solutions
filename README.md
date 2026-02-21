@@ -128,6 +128,7 @@ This repository contains Java implementations of three classic algorithms:
 - Binary Number With Alternating Bits
 - Count Binary Substrings
 - Special Binary String
+- Prime Number of Set Bits in Binary Representation
 
 ## Maximum Subarray
 
@@ -539,6 +540,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Special Binary String
    Return the lexicographically largest resulting string possible after applying the mentioned operations on the string.
+
+   ## Prime Number of Set Bits in Binary Representation
+   Given two integers left and right, return the count of numbers in the inclusive range [left, right] having a prime number of set bits in their binary representation.
    
 
    
