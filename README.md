@@ -129,6 +129,7 @@ This repository contains Java implementations of three classic algorithms:
 - Count Binary Substrings
 - Special Binary String
 - Prime Number of Set Bits in Binary Representation
+- Binary Gap
 
 ## Maximum Subarray
 
@@ -543,6 +544,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Prime Number of Set Bits in Binary Representation
    Given two integers left and right, return the count of numbers in the inclusive range [left, right] having a prime number of set bits in their binary representation.
+
+   ## Binary Gap
+   Two 1's are adjacent if there are only 0's separating them (possibly no 0's). The distance between two 1's is the absolute difference between their bit positions. For example, the two 1's in "1001" have a distance of 3.
    
 
    
