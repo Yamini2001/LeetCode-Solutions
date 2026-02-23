@@ -130,6 +130,7 @@ This repository contains Java implementations of three classic algorithms:
 - Special Binary String
 - Prime Number of Set Bits in Binary Representation
 - Binary Gap
+- Check If a String Contains All Binary Codes of Size K
 
 ## Maximum Subarray
 
@@ -547,6 +548,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Binary Gap
    Two 1's are adjacent if there are only 0's separating them (possibly no 0's). The distance between two 1's is the absolute difference between their bit positions. For example, the two 1's in "1001" have a distance of 3.
+
+   ## Check If a String Contains All Binary Codes of Size K
+   Given a binary string s and an integer k, return true if every binary code of length k is a substring of s. Otherwise, return false.
    
 
    
