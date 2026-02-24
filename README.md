@@ -131,6 +131,7 @@ This repository contains Java implementations of three classic algorithms:
 - Prime Number of Set Bits in Binary Representation
 - Binary Gap
 - Check If a String Contains All Binary Codes of Size K
+- Sum of Root to Leaf Binary Numbers
 
 ## Maximum Subarray
 
@@ -551,6 +552,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Check If a String Contains All Binary Codes of Size K
    Given a binary string s and an integer k, return true if every binary code of length k is a substring of s. Otherwise, return false.
+
+   ## Sum of Root to Leaf Binary Numbers
+   For all leaves in the tree, consider the numbers represented by the path from the root to that leaf. Return the sum of these numbers.
    
 
    
