@@ -132,6 +132,7 @@ This repository contains Java implementations of three classic algorithms:
 - Binary Gap
 - Check If a String Contains All Binary Codes of Size K
 - Sum of Root to Leaf Binary Numbers
+- Sort Integers by the Number of 1 Bits
 
 ## Maximum Subarray
 
@@ -555,6 +556,9 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Sum of Root to Leaf Binary Numbers
    For all leaves in the tree, consider the numbers represented by the path from the root to that leaf. Return the sum of these numbers.
+
+   ## Sort Integers by the Number of 1 Bits
+   Sort the integers in the array in ascending order by the number of 1's in their binary representation and in case of two or more integers have the same number of 1's you have to sort them in ascending order.
    
 
    
