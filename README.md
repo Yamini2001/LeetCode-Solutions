@@ -133,6 +133,7 @@ This repository contains Java implementations of three classic algorithms:
 - Check If a String Contains All Binary Codes of Size K
 - Sum of Root to Leaf Binary Numbers
 - Sort Integers by the Number of 1 Bits
+- Number of Steps: Reduce a number in Binary Representation by one 
 
 ## Maximum Subarray
 
@@ -559,6 +560,13 @@ Return the maximum possible frequency of any element in nums after performing th
 
    ## Sort Integers by the Number of 1 Bits
    Sort the integers in the array in ascending order by the number of 1's in their binary representation and in case of two or more integers have the same number of 1's you have to sort them in ascending order.
+
+   ## Number of Steps: Reduce a number in Binary Representation by one 
+   Given the binary representation of an integer as a string s, return the number of steps to reduce it to 1 under the following rules:
+
+If the current number is even, you have to divide it by 2.
+
+If the current number is odd, you have to add 1 to it.
    
 
    
