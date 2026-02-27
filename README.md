@@ -133,7 +133,8 @@ This repository contains Java implementations of three classic algorithms:
 - Check If a String Contains All Binary Codes of Size K
 - Sum of Root to Leaf Binary Numbers
 - Sort Integers by the Number of 1 Bits
-- Number of Steps: Reduce a number in Binary Representation by one 
+- Number of Steps: Reduce a number in Binary Representation by one
+- Minimise Operations to Equalise Binary String
 
 ## Maximum Subarray
 
@@ -567,6 +568,9 @@ Return the maximum possible frequency of any element in nums after performing th
 If the current number is even, you have to divide it by 2.
 
 If the current number is odd, you have to add 1 to it.
+
+## Minimise Operations to Equalise Binary String
+Return the minimum number of operations required to make all characters in the string equal to '1'. If it is not possible, return -1.
    
 
    
