@@ -136,6 +136,7 @@ This repository contains Java implementations of three classic algorithms:
 - Number of Steps: Reduce a number in Binary Representation by one
 - Minimise Operations to Equalise Binary String
 - Concatenation of Consecutive Binary Numbers
+- Interleaving String
 
 ## Maximum Subarray
 
@@ -575,6 +576,9 @@ Return the minimum number of operations required to make all characters in the s
 
 ## Concatenation of Consecutive Binary Numbers
 Given an integer n, return the decimal value of the binary string formed by concatenating the binary representations of 1 to n in order, modulo 109 + 7.
+
+## Interleaving String
+Given strings s1, s2, and s3, find whether s3 is formed by an interleaving of s1 and s2.
    
 
    
