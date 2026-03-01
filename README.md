@@ -135,6 +135,8 @@ This repository contains Java implementations of three classic algorithms:
 - Sort Integers by the Number of 1 Bits
 - Number of Steps: Reduce a number in Binary Representation by one
 - Minimise Operations to Equalise Binary String
+- Concatenation of Consecutive Binary Numbers
+- Interleaving String
 
 ## Maximum Subarray
 
@@ -571,6 +573,12 @@ If the current number is odd, you have to add 1 to it.
 
 ## Minimise Operations to Equalise Binary String
 Return the minimum number of operations required to make all characters in the string equal to '1'. If it is not possible, return -1.
+
+## Concatenation of Consecutive Binary Numbers
+Given an integer n, return the decimal value of the binary string formed by concatenating the binary representations of 1 to n in order, modulo 109 + 7.
+
+## Interleaving String
+Given strings s1, s2, and s3, find whether s3 is formed by an interleaving of s1 and s2.
    
 
    
