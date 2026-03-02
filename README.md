@@ -137,6 +137,7 @@ This repository contains Java implementations of three classic algorithms:
 - Minimise Operations to Equalise Binary String
 - Concatenation of Consecutive Binary Numbers
 - Interleaving String
+- Minimum Swaps to Arrange a Binary Grid
 
 ## Maximum Subarray
 
@@ -579,6 +580,9 @@ Given an integer n, return the decimal value of the binary string formed by conc
 
 ## Interleaving String
 Given strings s1, s2, and s3, find whether s3 is formed by an interleaving of s1 and s2.
+
+## Minimum Swaps to Arrange a Binary Grid
+Return the minimum number of steps needed to make the grid valid, or -1 if the grid cannot be valid.
    
 
    
