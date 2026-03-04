@@ -138,7 +138,8 @@ This repository contains Java implementations of three classic algorithms:
 - Concatenation of Consecutive Binary Numbers
 - Interleaving String
 - Minimum Swaps to Arrange a Binary Grid
-- Find Kth Bit in Nth Binary String 
+- Find Kth Bit in Nth Binary String
+- Special Positions in a Binary Matrix
 
 ## Maximum Subarray
 
@@ -587,6 +588,9 @@ Return the minimum number of steps needed to make the grid valid, or -1 if the g
 
 ## Find Kth Bit in Nth Binary String 
 Return the kth bit in Sn. It is guaranteed that k is valid for the given n.
+
+## Special Positions in a Binary Matrix
+Given an m x n binary matrix mat, return the number of special positions in mat.
    
 
    
