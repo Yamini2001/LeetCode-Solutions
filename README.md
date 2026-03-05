@@ -140,6 +140,7 @@ This repository contains Java implementations of three classic algorithms:
 - Minimum Swaps to Arrange a Binary Grid
 - Find Kth Bit in Nth Binary String
 - Special Positions in a Binary Matrix
+- Permutation Sequence
 
 ## Maximum Subarray
 
@@ -591,6 +592,9 @@ Return the kth bit in Sn. It is guaranteed that k is valid for the given n.
 
 ## Special Positions in a Binary Matrix
 Given an m x n binary matrix mat, return the number of special positions in mat.
+
+## Permutation Sequence
+Given n and k, return the kth permutation sequence.
    
 
    
