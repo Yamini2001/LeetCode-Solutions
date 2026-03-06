@@ -141,6 +141,7 @@ This repository contains Java implementations of three classic algorithms:
 - Find Kth Bit in Nth Binary String
 - Special Positions in a Binary Matrix
 - Permutation Sequence
+- Minimum Path Sum
 
 ## Maximum Subarray
 
@@ -595,6 +596,9 @@ Given an m x n binary matrix mat, return the number of special positions in mat.
 
 ## Permutation Sequence
 Given n and k, return the kth permutation sequence.
+
+## Minimum Path Sum
+Given a m x n grid filled with non-negative numbers, find a path from top left to bottom right, which minimizes the sum of all numbers along its path.
    
 
    
