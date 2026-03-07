@@ -142,6 +142,7 @@ This repository contains Java implementations of three classic algorithms:
 - Special Positions in a Binary Matrix
 - Permutation Sequence
 - Minimum Path Sum
+- Simplify Path
 
 ## Maximum Subarray
 
@@ -599,6 +600,9 @@ Given n and k, return the kth permutation sequence.
 
 ## Minimum Path Sum
 Given a m x n grid filled with non-negative numbers, find a path from top left to bottom right, which minimizes the sum of all numbers along its path.
+
+## Simplify Path
+Return the simplified canonical path.
    
 
    
