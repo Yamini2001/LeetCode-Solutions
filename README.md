@@ -143,6 +143,7 @@ This repository contains Java implementations of three classic algorithms:
 - Permutation Sequence
 - Minimum Path Sum
 - Simplify Path
+- Find Unique Binary String 
 
 ## Maximum Subarray
 
@@ -603,6 +604,9 @@ Given a m x n grid filled with non-negative numbers, find a path from top left t
 
 ## Simplify Path
 Return the simplified canonical path.
+
+## Find Unique Binary String
+Given an array of strings nums containing n unique binary strings each of length n, return a binary string of length n that does not appear in nums. If there are multiple answers, you may return any of them.
    
 
    
