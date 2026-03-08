@@ -142,6 +142,8 @@ This repository contains Java implementations of three classic algorithms:
 - Special Positions in a Binary Matrix
 - Permutation Sequence
 - Minimum Path Sum
+- Simplify Path
+- Find Unique Binary String 
 
 ## Maximum Subarray
 
@@ -599,6 +601,12 @@ Given n and k, return the kth permutation sequence.
 
 ## Minimum Path Sum
 Given a m x n grid filled with non-negative numbers, find a path from top left to bottom right, which minimizes the sum of all numbers along its path.
+
+## Simplify Path
+Return the simplified canonical path.
+
+## Find Unique Binary String
+Given an array of strings nums containing n unique binary strings each of length n, return a binary string of length n that does not appear in nums. If there are multiple answers, you may return any of them.
    
 
    
