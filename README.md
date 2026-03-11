@@ -146,6 +146,7 @@ This repository contains Java implementations of three classic algorithms:
 - Find Unique Binary String
 - Find All Possible Stable Binary Arrays
 - Same Tree
+- Complement of Base 10 Integer
 
 ## Maximum Subarray
 
@@ -616,6 +617,9 @@ Return the total number of stable binary arrays.
 
 ## Same Tree 
 Given the roots of two binary trees p and q, write a function to check if they are the same or not.
+
+## Complement of Base 10 Integer
+The complement of an integer is the integer you get when you flip all the 0's to 1's and all the 1's to 0's in its binary representation.
    
 
    
