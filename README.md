@@ -145,6 +145,7 @@ This repository contains Java implementations of three classic algorithms:
 - Simplify Path
 - Find Unique Binary String
 - Find All Possible Stable Binary Arrays
+- Same Tree
 
 ## Maximum Subarray
 
@@ -612,6 +613,9 @@ Given an array of strings nums containing n unique binary strings each of length
 
 ## Find All Possible Stable Binary Arrays
 Return the total number of stable binary arrays.
+
+## Same Tree 
+Given the roots of two binary trees p and q, write a function to check if they are the same or not.
    
 
    
