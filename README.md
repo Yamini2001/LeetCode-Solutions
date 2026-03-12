@@ -147,6 +147,7 @@ This repository contains Java implementations of three classic algorithms:
 - Find All Possible Stable Binary Arrays
 - Same Tree
 - Complement of Base 10 Integer
+- Maximise Spanning Tree Stability With Upgrades
 
 ## Maximum Subarray
 
@@ -620,6 +621,9 @@ Given the roots of two binary trees p and q, write a function to check if they a
 
 ## Complement of Base 10 Integer
 The complement of an integer is the integer you get when you flip all the 0's to 1's and all the 1's to 0's in its binary representation.
+
+## Maximise Spanning Tree Stability With Upgrades
+Return the maximum possible stability of any valid spanning tree. If it is impossible to connect all nodes, return -1.
    
 
    
