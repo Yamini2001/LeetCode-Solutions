@@ -148,6 +148,7 @@ This repository contains Java implementations of three classic algorithms:
 - Same Tree
 - Complement of Base 10 Integer
 - Maximise Spanning Tree Stability With Upgrades
+- Scramble String
 
 ## Maximum Subarray
 
@@ -624,6 +625,10 @@ The complement of an integer is the integer you get when you flip all the 0's to
 
 ## Maximise Spanning Tree Stability With Upgrades
 Return the maximum possible stability of any valid spanning tree. If it is impossible to connect all nodes, return -1.
+
+## Scramble String
+Given two strings s1 and s2 of the same length, return true if s2 is a scrambled string of s1, otherwise, return false.
+
    
 
    
