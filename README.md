@@ -149,6 +149,7 @@ This repository contains Java implementations of three classic algorithms:
 - Complement of Base 10 Integer
 - Maximise Spanning Tree Stability With Upgrades
 - Scramble String
+- Validate Binary Search Tree
 
 ## Maximum Subarray
 
@@ -628,6 +629,9 @@ Return the maximum possible stability of any valid spanning tree. If it is impos
 
 ## Scramble String
 Given two strings s1 and s2 of the same length, return true if s2 is a scrambled string of s1, otherwise, return false.
+
+## Validate Binary Search Tree
+Given the root of a binary tree, determine if it is a valid binary search tree (BST).
 
    
 
