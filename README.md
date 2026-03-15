@@ -150,6 +150,7 @@ This repository contains Java implementations of three classic algorithms:
 - Maximise Spanning Tree Stability With Upgrades
 - Scramble String
 - Validate Binary Search Tree
+- Fancy Sequence 
 
 ## Maximum Subarray
 
@@ -632,6 +633,9 @@ Given two strings s1 and s2 of the same length, return true if s2 is a scrambled
 
 ## Validate Binary Search Tree
 Given the root of a binary tree, determine if it is a valid binary search tree (BST).
+
+## Fancy Sequence 
+Write an API that generates fancy sequences using the append, addAll, and multAll operations.
 
    
 
