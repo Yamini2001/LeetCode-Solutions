@@ -152,6 +152,7 @@ This repository contains Java implementations of three classic algorithms:
 - Validate Binary Search Tree
 - Fancy Sequence
 - Get the Biggest Three Rhombus Sums in a Grid
+- Largest SubMatrix with Rearrangements
 
 ## Maximum Subarray
 
@@ -639,9 +640,11 @@ Given the root of a binary tree, determine if it is a valid binary search tree (
 Write an API that generates fancy sequences using the append, addAll, and multAll operations.
 
 ## Get the Biggest Three Rhombus Sums in a Grid
-Return the biggest three distinct rhombus sums in the grid in descending order. If there are less than three distinct values, return all of them.
+Return the three biggest distinct rhombus sums in the grid in descending order. If there are less than three distinct values, return all of them.
 
- 
+## Largest SubMatrix with Rearrangements
+
+ Return the area of the largest submatrix within matrix where every element of the submatrix is 1 after reordering the columns optimally.
 
    
 
