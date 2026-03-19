@@ -154,6 +154,8 @@ This repository contains Java implementations of three classic algorithms:
 - Get the Biggest Three Rhombus Sums in a Grid
 - Largest SubMatrix with Rearrangements
 - clone Graph
+- Text Justification
+
 
 ## Maximum Subarray
 
@@ -645,10 +647,14 @@ Return the three biggest distinct rhombus sums in the grid in descending order. 
 
 ## Largest SubMatrix with Rearrangements
 
- Return the area of the largest submatrix within matrix where every element of the submatrix is 1 after reordering the columns optimally.
+ Return the area of the largest submatrix within the matrix where every element of the submatrix is 1 after reordering the columns optimally.
 
 ## Clone Graph
 Return a deep copy (clone) of the graph.
+
+## Text Justification
+Given an array of strings words and a width maxWidth, format the text such that each line has exactly maxWidth characters and is fully (left and right) justified.
+
 
    
 
