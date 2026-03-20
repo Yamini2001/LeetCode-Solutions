@@ -155,6 +155,7 @@ This repository contains Java implementations of three classic algorithms:
 - Largest SubMatrix with Rearrangements
 - clone Graph
 - Text Justification
+- Minimum Absolute Difference in Sliding Submatrix
 
 
 ## Maximum Subarray
@@ -654,6 +655,9 @@ Return a deep copy (clone) of the graph.
 
 ## Text Justification
 Given an array of strings words and a width maxWidth, format the text such that each line has exactly maxWidth characters and is fully (left and right) justified.
+
+## Minimum Absolute Difference in Sliding Submatrix
+Return a 2D array ans of size (m - k + 1) x (n - k + 1), where ans[i][j] is the minimum absolute difference in the submatrix whose top-left corner is (i, j) in grid.
 
 
    
