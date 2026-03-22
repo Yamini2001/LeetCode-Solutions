@@ -1,3 +1,6 @@
+import java.util.List;
+import java.util.ArrayList;
+
 class Solution {
     public List<Integer> grayCode(int n) {
         int size = 1 << n; // 2^n
