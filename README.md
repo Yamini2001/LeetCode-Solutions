@@ -157,6 +157,7 @@ This repository contains Java implementations of three classic algorithms:
 - Text Justification
 - Minimum Absolute Difference in Sliding Submatrix
 - Flip Square SubMatrix Vertically
+- Gray Code
 
 
 ## Maximum Subarray
@@ -662,6 +663,9 @@ Return a 2D array ans of size (m - k + 1) x (n - k + 1), where ans[i][j] is the 
 
 ## Flip Square SubMatrix Vertically
 To flip the submatrix by reversing the order of its rows vertically.
+
+## Gray Code
+Given an integer n, return any valid n-bit gray code sequence.
 
 
    
