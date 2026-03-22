@@ -156,6 +156,8 @@ This repository contains Java implementations of three classic algorithms:
 - clone Graph
 - Text Justification
 - Minimum Absolute Difference in Sliding Submatrix
+- Flip Square SubMatrix Vertically
+- Gray Code
 
 
 ## Maximum Subarray
@@ -658,6 +660,12 @@ Given an array of strings words and a width maxWidth, format the text such that 
 
 ## Minimum Absolute Difference in Sliding Submatrix
 Return a 2D array ans of size (m - k + 1) x (n - k + 1), where ans[i][j] is the minimum absolute difference in the submatrix whose top-left corner is (i, j) in grid.
+
+## Flip Square SubMatrix Vertically
+To flip the submatrix by reversing the order of its rows vertically.
+
+## Gray Code
+Given an integer n, return any valid n-bit gray code sequence.
 
 
    
