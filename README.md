@@ -157,7 +157,8 @@ This repository contains Java implementations of three classic algorithms:
 - Text Justification
 - Minimum Absolute Difference in Sliding Submatrix
 - Flip Square SubMatrix Vertically
-- Gray Code
+- Grey Code
+- Maximum Non-Negative Product in a Matrix
 
 
 ## Maximum Subarray
@@ -666,6 +667,10 @@ To flip the submatrix by reversing the order of its rows vertically.
 
 ## Gray Code
 Given an integer n, return any valid n-bit gray code sequence.
+
+## Maximum Non-Negative Product in a Matrix
+Return the maximum non-negative product modulo 109 + 7. If the maximum product is negative, return -1.
+
 
 
    
