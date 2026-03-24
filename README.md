@@ -159,6 +159,7 @@ This repository contains Java implementations of three classic algorithms:
 - Flip Square SubMatrix Vertically
 - Grey Code
 - Maximum Non-Negative Product in a Matrix
+- Construct Product Matrix
 
 
 ## Maximum Subarray
@@ -670,6 +671,9 @@ Given an integer n, return any valid n-bit gray code sequence.
 
 ## Maximum Non-Negative Product in a Matrix
 Return the maximum non-negative product modulo 109 + 7. If the maximum product is negative, return -1.
+
+## Construct Product Matrix
+Return the product matrix of grid.
 
 
 
