@@ -160,6 +160,7 @@ This repository contains Java implementations of three classic algorithms:
 - Grey Code
 - Maximum Non-Negative Product in a Matrix
 - Construct Product Matrix
+- Equal Sum Grid Partition
 
 
 ## Maximum Subarray
@@ -666,14 +667,17 @@ Return a 2D array ans of size (m - k + 1) x (n - k + 1), where ans[i][j] is the 
 ## Flip Square SubMatrix Vertically
 To flip the submatrix by reversing the order of its rows vertically.
 
-## Gray Code
-Given an integer n, return any valid n-bit gray code sequence.
+## Grey Code
+Given an integer n, return any valid n-bit grey code sequence.
 
 ## Maximum Non-Negative Product in a Matrix
 Return the maximum non-negative product modulo 109 + 7. If the maximum product is negative, return -1.
 
 ## Construct Product Matrix
-Return the product matrix of grid.
+Return the product matrix of the grid.
+
+## Equal Sum Grid Partition
+Return true if such a partition exists; otherwise return false.
 
 
 
