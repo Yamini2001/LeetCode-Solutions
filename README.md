@@ -161,6 +161,7 @@ This repository contains Java implementations of three classic algorithms:
 - Maximum Non-Negative Product in a Matrix
 - Construct Product Matrix
 - Equal Sum Grid Partition
+- Subsets
 
 
 ## Maximum Subarray
@@ -678,6 +679,9 @@ Return the product matrix of the grid.
 
 ## Equal Sum Grid Partition
 Return true if such a partition exists; otherwise return false.
+
+## Subsets
+Given an integer array nums of unique elements, return all possible subsets (the power set).
 
 
 
