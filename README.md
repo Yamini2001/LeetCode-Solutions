@@ -162,6 +162,7 @@ This repository contains Java implementations of three classic algorithms:
 - Construct Product Matrix
 - Equal Sum Grid Partition
 - Subsets
+- Matrix Similarity After Cyclic Shifts
 
 
 ## Maximum Subarray
@@ -678,10 +679,14 @@ Return the maximum non-negative product modulo 109 + 7. If the maximum product i
 Return the product matrix of the grid.
 
 ## Equal Sum Grid Partition
-Return true if such a partition exists; otherwise return false.
+Return true if such a partition exists; otherwise, return false.
 
 ## Subsets
 Given an integer array nums of unique elements, return all possible subsets (the power set).
+
+## Matrix Similarity After Cyclic Shifts
+Return true if the final modified matrix after k steps is identical to the original matrix, and false otherwise.
+
 
 
 
