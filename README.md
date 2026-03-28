@@ -163,6 +163,7 @@ This repository contains Java implementations of three classic algorithms:
 - Equal Sum Grid Partition
 - Subsets
 - Matrix Similarity After Cyclic Shifts
+- Find the String with LCP
 
 
 ## Maximum Subarray
@@ -687,6 +688,8 @@ Given an integer array nums of unique elements, return all possible subsets (the
 ## Matrix Similarity After Cyclic Shifts
 Return true if the final modified matrix after k steps is identical to the original matrix, and false otherwise.
 
+## Find the String with LCP
+Given an n x n matrix lcp, return the alphabetically smallest string word that corresponds to lcp. If there is no such string, return an empty string.
 
 
 
