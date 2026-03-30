@@ -164,6 +164,8 @@ This repository contains Java implementations of three classic algorithms:
 - Subsets
 - Matrix Similarity After Cyclic Shifts
 - Find the String with LCP
+- Recover Binary Search Tree
+- Path Sum
 
 
 ## Maximum Subarray
@@ -690,6 +692,14 @@ Return true if the final modified matrix after k steps is identical to the origi
 
 ## Find the String with LCP
 Given an n x n matrix lcp, return the alphabetically smallest string word that corresponds to lcp. If there is no such string, return an empty string.
+
+## Recover Binary Search Tree
+Given the root of a binary search tree (BST), where the values of exactly two nodes of the tree were swapped by mistake. Recover the tree without changing its structure.
+
+## Path Sum
+Given the root of a binary tree and an integer targetSum, return true if the tree has a root-to-leaf path such that adding up all the values along the path equals targetSum.
+
+ 
 
 
 
