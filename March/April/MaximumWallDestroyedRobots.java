@@ -1,5 +1,9 @@
 package March.April;
 
+import java.util.Map;
+import java.util.HashMap;
+import java.util.Arrays;
+
 class Solution {
 
     public int maxWalls(int[] robots, int[] distance, int[] walls) {
