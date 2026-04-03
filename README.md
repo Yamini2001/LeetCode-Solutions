@@ -169,6 +169,7 @@ This repository contains Java implementations of three classic algorithms:
 - Lexicographically Smallest Generated String
 - Robot Collisions
 - Maximum Amount of Money Robot Can Earn
+- Maximum Walls Destroyed by Robots
 
 
 ## Maximum Subarray
@@ -710,6 +711,9 @@ Return an array containing the health of the remaining robots (in the order they
 
 ## Maximum Amount of Money Robot Can Earn
 Return the maximum profit the robot can gain on the route.
+
+## Maximum Walls Destroyed by Robots
+Return the maximum number of unique walls that can be destroyed by the robots.
 
  
 
