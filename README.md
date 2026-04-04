@@ -170,6 +170,7 @@ This repository contains Java implementations of three classic algorithms:
 - Robot Collisions
 - Maximum Amount of Money Robot Can Earn
 - Maximum Walls Destroyed by Robots
+- Decode the Slanted CipherText
 
 
 ## Maximum Subarray
@@ -714,6 +715,9 @@ Return the maximum profit the robot can gain on the route.
 
 ## Maximum Walls Destroyed by Robots
 Return the maximum number of unique walls that can be destroyed by the robots.
+
+## Decode the Slanted CipherText
+Given the encoded string encodedText and the number of rows rows, return the original string originalText.
 
  
 
