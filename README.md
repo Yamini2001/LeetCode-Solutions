@@ -171,6 +171,7 @@ This repository contains Java implementations of three classic algorithms:
 - Maximum Amount of Money Robot Can Earn
 - Maximum Walls Destroyed by Robots
 - Decode the Slanted CipherText
+- Robot Return to Origin 
 
 
 ## Maximum Subarray
@@ -718,6 +719,9 @@ Return the maximum number of unique walls that can be destroyed by the robots.
 
 ## Decode the Slanted CipherText
 Given the encoded string encodedText and the number of rows rows, return the original string originalText.
+
+## Robot Return to Origin 
+Return true if the robot returns to the origin after it finishes all of its moves, or false otherwise.
 
  
 
