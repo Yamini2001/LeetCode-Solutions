@@ -171,7 +171,8 @@ This repository contains Java implementations of three classic algorithms:
 - Maximum Amount of Money Robot Can Earn
 - Maximum Walls Destroyed by Robots
 - Decode the Slanted CipherText
-- Robot Return to Origin 
+- Robot Return to Origin
+- Minimum Total Distance Traveled
 
 
 ## Maximum Subarray
@@ -722,6 +723,9 @@ Given the encoded string encodedText and the number of rows rows, return the ori
 
 ## Robot Return to Origin 
 Return true if the robot returns to the origin after it finishes all of its moves, or false otherwise.
+
+## Minimum Total Distance Travelled
+Return the minimum total distance travelled by all the robots. The test cases are generated such that all the robots can be repaired.
 
  
 
