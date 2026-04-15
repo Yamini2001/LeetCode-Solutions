@@ -172,7 +172,8 @@ This repository contains Java implementations of three classic algorithms:
 - Maximum Walls Destroyed by Robots
 - Decode the Slanted CipherText
 - Robot Return to Origin
-- Minimum Total Distance Traveled
+- Minimum Total Distance Travelled
+- Partition List
 
 
 ## Maximum Subarray
@@ -726,6 +727,9 @@ Return true if the robot returns to the origin after it finishes all of its move
 
 ## Minimum Total Distance Travelled
 Return the minimum total distance travelled by all the robots. The test cases are generated such that all the robots can be repaired.
+
+## Partition List
+Given the head of a linked list and a value x, partition it such that all nodes less than x come before nodes greater than or equal to x.
 
  
 
