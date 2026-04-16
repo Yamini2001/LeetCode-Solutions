@@ -174,6 +174,7 @@ This repository contains Java implementations of three classic algorithms:
 - Robot Return to Origin
 - Minimum Total Distance Travelled
 - Partition List
+- Closest Equal Element Queries
 
 
 ## Maximum Subarray
@@ -730,6 +731,9 @@ Return the minimum total distance travelled by all the robots. The test cases ar
 
 ## Partition List
 Given the head of a linked list and a value x, partition it such that all nodes less than x come before nodes greater than or equal to x.
+
+## Closest Equal Element Queries
+Return an array answer of the same size as queries, where answer[i] represents the result for query i.
 
  
 
