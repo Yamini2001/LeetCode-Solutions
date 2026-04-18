@@ -175,6 +175,8 @@ This repository contains Java implementations of three classic algorithms:
 - Minimum Total Distance Travelled
 - Partition List
 - Closest Equal Element Queries
+- Permutations
+- Mirror Distance of an Integer
 
 
 ## Maximum Subarray
@@ -734,6 +736,12 @@ Given the head of a linked list and a value x, partition it such that all nodes 
 
 ## Closest Equal Element Queries
 Return an array answer of the same size as queries, where answer[i] represents the result for query i.
+
+## Permutations
+Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.
+
+## Mirror Distance of an Integer
+Return an integer denoting the mirror distance of n​​​​​​.
 
  
 
