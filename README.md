@@ -176,6 +176,7 @@ This repository contains Java implementations of three classic algorithms:
 - Partition List
 - Closest Equal Element Queries
 - Permutations
+- Mirror Distance of an Integer
 
 
 ## Maximum Subarray
@@ -738,6 +739,9 @@ Return an array answer of the same size as queries, where answer[i] represents t
 
 ## Permutations
 Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.
+
+## Mirror Distance of an Integer
+Return an integer denoting the mirror distance of n​​​​​​.
 
  
 
