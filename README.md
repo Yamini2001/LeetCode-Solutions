@@ -177,6 +177,7 @@ This repository contains Java implementations of three classic algorithms:
 - Closest Equal Element Queries
 - Permutations
 - Mirror Distance of an Integer
+- Two Furthest Houses With Different Colours
 
 
 ## Maximum Subarray
@@ -742,6 +743,9 @@ Given an array nums of distinct integers, return all the possible permutations. 
 
 ## Mirror Distance of an Integer
 Return an integer denoting the mirror distance of n​​​​​​.
+
+## Two Furthest Houses With Different Colours
+Return the maximum distance between two houses with different colors.
 
  
 
