@@ -178,6 +178,7 @@ This repository contains Java implementations of three classic algorithms:
 - Permutations
 - Mirror Distance of an Integer
 - Two Furthest Houses With Different Colours
+- Spiral Matrix
 
 
 ## Maximum Subarray
@@ -746,6 +747,9 @@ Return an integer denoting the mirror distance of n​​​​​​.
 
 ## Two Furthest Houses With Different Colours
 Return the maximum distance between two houses with different colors.
+
+## Spiral Matrix
+Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.
 
  
 
