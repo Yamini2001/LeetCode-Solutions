@@ -179,6 +179,7 @@ This repository contains Java implementations of three classic algorithms:
 - Mirror Distance of an Integer
 - Two Furthest Houses With Different Colours
 - Spiral Matrix
+- Words Within Two Edits of the Dictionary
 
 
 ## Maximum Subarray
@@ -750,6 +751,9 @@ Return the maximum distance between two houses with different colors.
 
 ## Spiral Matrix
 Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.
+
+## Words Within Two Edits of the Dictionary
+Return a list of all words from queries, that match with some word from dictionary after a maximum of two edits. Return the words in the same order they appear in queries.
 
  
 
