@@ -180,6 +180,7 @@ This repository contains Java implementations of three classic algorithms:
 - Two Furthest Houses With Different Colours
 - Spiral Matrix
 - Words Within Two Edits of the Dictionary
+- Maximise the Distance between Points on a Square
 
 
 ## Maximum Subarray
@@ -754,6 +755,10 @@ Given a positive integer n, generate an n x n matrix filled with elements from 1
 
 ## Words Within Two Edits of the Dictionary
 Return a list of all words from queries, that match with some word from dictionary after a maximum of two edits. Return the words in the same order they appear in queries.
+
+## Maximise the Distance between Points on a Square
+Return the maximum possible minimum Manhattan distance between the selected k points.
+
 
  
 
